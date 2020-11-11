@@ -1,0 +1,1564 @@
+﻿Log file open, 11/11/20 20:29:17
+LogInit: Display: Running engine for game: Practica2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.228808
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogWmfMedia: Failed to load mf.dll
+LogWmfMedia: Failed to load required Windows Media Foundation libraries
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.11.11-19.29.18:147][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.11.11-19.29.18:147][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.11.11-19.29.18:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:147][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.11.11-19.29.18:147][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.11.11-19.29.18:148][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:148][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.11-19.29.18:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.11-19.29.18:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.11-19.29.18:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.11-19.29.18:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.11-19.29.18:152][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.11-19.29.18:152][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.11.11-19.29.18:152][  0]LogHAL: Display: Platform has ~ 8 GB [8477495296 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.11.11-19.29.18:152][  0]LogInit: Going up to parent DeviceProfile []
+[2020.11.11-19.29.18:152][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:152][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.11.11-19.29.18:152][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.11.11-19.29.18:153][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Scalability.ini]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.11.11-19.29.18:154][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/vflma/Desktop/DEV/Practica2/Saved/Config/Windows/Engine.ini]
+[2020.11.11-19.29.18:154][  0]LogInit: Computer: DESKTOP-JL65CPR
+[2020.11.11-19.29.18:154][  0]LogInit: User: vflma
+[2020.11.11-19.29.18:154][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.11.11-19.29.18:154][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.11.11-19.29.18:155][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.11.11-19.29.18:155][  0]LogMemory: Platform Memory Stats for Windows
+[2020.11.11-19.29.18:155][  0]LogMemory: Process Physical Memory: 113.43 MB used, 113.43 MB peak
+[2020.11.11-19.29.18:155][  0]LogMemory: Process Virtual Memory: 95.65 MB used, 95.65 MB peak
+[2020.11.11-19.29.18:155][  0]LogMemory: Physical Memory: 4756.48 MB used,  3328.29 MB free, 8084.77 MB total
+[2020.11.11-19.29.18:155][  0]LogMemory: Virtual Memory: 5128.45 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.11.11-19.29.18:162][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.11.11-19.29.18:192][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.11.11-19.29.18:193][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.11.11-19.29.18:193][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2020.11.11-19.29.18:434][  0]LogInit: Setting process to per monitor DPI aware
+[2020.11.11-19.29.18:490][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.11.11-19.29.18:490][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.11.11-19.29.18:723][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.11-19.29.18:723][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.11.11-19.29.18:723][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.11.11-19.29.18:723][  0]LogD3D11RHI: D3D11 adapters:
+[2020.11.11-19.29.18:794][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2020.11.11-19.29.18:794][  0]LogD3D11RHI:       4055/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.11.11-19.29.18:804][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.11.11-19.29.18:804][  0]LogD3D11RHI:       128/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.11.11-19.29.18:808][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.11.11-19.29.18:809][  0]LogD3D11RHI:       0/0/4042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.11.11-19.29.18:809][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.11.11-19.29.18:873][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.11.11-19.29.18:873][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2020.11.11-19.29.18:873][  0]LogWindows: EnumDisplayDevices:
+[2020.11.11-19.29.18:873][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.11.11-19.29.18:874][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.11-19.29.18:874][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.11.11-19.29.18:875][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.11.11-19.29.18:875][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2020.11.11-19.29.18:875][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.11.11-19.29.18:875][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.11.11-19.29.18:875][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.11.11-19.29.18:946][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.11.11-19.29.18:947][  0]LogD3D11RHI: [Aftermath] Enabled and primed
+[2020.11.11-19.29.18:947][  0]LogD3D11RHI: Async texture creation enabled
+[2020.11.11-19.29.18:976][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.11.11-19.29.20:712][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.11.11-19.29.20:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.11.11-19.29.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.11.11-19.29.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.11.11-19.29.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.11.11-19.29.20:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.11.11-19.29.20:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.11.11-19.29.20:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.11.11-19.29.20:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.11.11-19.29.20:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.11.11-19.29.20:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.11.11-19.29.20:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.11.11-19.29.20:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.11.11-19.29.20:830][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.11.11-19.29.20:841][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.11.11-19.29.20:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.11.11-19.29.20:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.11.11-19.29.20:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.11.11-19.29.20:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.11.11-19.29.20:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.11.11-19.29.20:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.11.11-19.29.20:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.11.11-19.29.20:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.11.11-19.29.20:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.11.11-19.29.20:954][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.11.11-19.29.21:026][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/vflma/Desktop/DEV/Practica2/Intermediate/Shaders/WorkingDirectory/5176/).
+[2020.11.11-19.29.21:026][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vflma/AppData/Local/Temp/UnrealShaderWorkingDir/42DFF90145BD5A11E29EDFB04BDA470D/'.
+[2020.11.11-19.29.21:027][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.11.11-19.29.21:027][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.11.11-19.29.21:027][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.11.11-19.29.21:976][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: Loaded boot cache 0.09s 76MB C:/Users/vflma/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vflma/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/vflma/Desktop/DEV/Practica2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/vflma/Desktop/DEV/Practica2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.11-19.29.22:063][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.11.11-19.29.22:076][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.11.11-19.29.22:076][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.11.11-19.29.22:076][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.11.11-19.29.22:077][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vflma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.11.11-19.29.22:078][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.11.11-19.29.22:078][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.11.11-19.29.22:140][  0]LogSlate: Using FreeType 2.10.0
+[2020.11.11-19.29.22:141][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.11.11-19.29.22:178][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2020.11.11-19.29.22:479][  0]LogInit: Selected Device Profile: [Windows]
+[2020.11.11-19.29.22:743][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.11.11-19.29.22:743][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.11.11-19.29.22:743][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.11.11-19.29.22:743][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.11.11-19.29.22:743][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.11.11-19.29.22:766][  0]LogNetVersion: Practica2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2667347911)
+[2020.11.11-19.29.23:352][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000197AF8A5340), frame # 0
+[2020.11.11-19.29.23:353][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000197AF7ED1C0), frame # 0
+[2020.11.11-19.29.23:355][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000197AF851E00), frame # 0
+[2020.11.11-19.29.23:450][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.088312 seconds
+[2020.11.11-19.29.23:459][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.11.11-19.29.23:459][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.11.11-19.29.23:459][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.11.11-19.29.23:598][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2020.11.11-19.29.23:598][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2020.11.11-19.29.23:598][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2020.11.11-19.29.23:851][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.11.11-19.29.23:857][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.11.11-19.29.23:970][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.23:970][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.23:974][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.23:980][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.23:991][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.24:013][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.11-19.29.24:014][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.11-19.29.24:287][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.11.11-19.29.24:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.11-19.29.24:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.11.11-19.29.24:364][  0]LogOcInput: OculusInput pre-init called
+[2020.11.11-19.29.24:375][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.11.11-19.29.24:375][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.11.11-19.29.24:444][  0]LogEngine: Initializing Engine...
+[2020.11.11-19.29.24:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.11.11-19.29.24:446][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.11.11-19.29.24:447][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.11.11-19.29.24:615][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.11.11-19.29.24:717][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.11.11-19.29.24:718][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000197B6C3BC00), frame # 0
+[2020.11.11-19.29.24:718][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000197B6C37B00), frame # 0
+[2020.11.11-19.29.24:724][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.11-19.29.24:725][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.11-19.29.24:725][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.11-19.29.24:725][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.11-19.29.24:746][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.11-19.29.24:746][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.11.11-19.29.24:809][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.11.11-19.29.24:813][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.11-19.29.24:815][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.11-19.29.24:815][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.11-19.29.24:817][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.11-19.29.24:818][  0]LogInit: FAudioDevice initialized.
+[2020.11.11-19.29.24:818][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.11.11-19.29.26:408][  0]LogDerivedDataCache: Saved boot cache 1.59s 76MB C:/Users/vflma/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.11.11-19.29.26:412][  0]LogInit: Texture streaming: Enabled
+[2020.11.11-19.29.26:432][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.11.11-19.29.26:432][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.11.11-19.29.26:434][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.11.11-19.29.26:499][  0]LogInit: Transaction tracking system initialized
+[2020.11.11-19.29.26:523][  0]BlueprintLog: New page: Editor Load
+[2020.11.11-19.29.26:599][  0]LocalizationService: Localization service is disabled
+[2020.11.11-19.29.26:684][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.11-19.29.26:685][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.11.11-19.29.26:777][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.11.11-19.29.26:777][  0]LogCook: Display: Mobile HDR setting 1
+[2020.11.11-19.29.26:936][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vflma/Desktop/DEV/Practica2/Content/' took 0.01s
+[2020.11.11-19.29.27:198][  0]SourceControl: Source control is disabled
+[2020.11.11-19.29.27:198][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.902
+[2020.11.11-19.29.27:199][  0]Cmd: MAP LOAD FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.11-19.29.27:199][  0]LightingResults: New page: Lighting Build
+[2020.11.11-19.29.27:200][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-19.29.27:200][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.29.27:201][  0]MapCheck: New page: Map Check
+[2020.11.11-19.29.27:201][  0]LightingResults: New page: Lighting Build
+[2020.11.11-19.29.27:211][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000197B6C3BC00), frame # 0
+[2020.11.11-19.29.27:211][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000197B6C37B00), frame # 0
+[2020.11.11-19.29.27:213][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.11.11-19.29.27:959][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.11-19.29.27:959][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000197A8A95A00), frame # 0
+[2020.11.11-19.29.27:959][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000197A8AFF380), frame # 0
+[2020.11.11-19.29.27:965][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:965][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:965][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:971][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:971][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:971][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:971][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:972][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:972][  0]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.29.27:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.11-19.29.27:998][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.11.11-19.29.27:998][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.11-19.29.27:998][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2020.11.11-19.29.27:998][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.800
+[2020.11.11-19.29.28:000][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.704
+[2020.11.11-19.29.28:143][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.29.28:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.29.28:160][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.29.28:169][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.29.28:177][  0]LogCollectionManager: Loaded 0 collections in 0.002291 seconds
+[2020.11.11-19.29.28:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vflma/Desktop/DEV/Practica2/Saved/Collections/' took 0.00s
+[2020.11.11-19.29.28:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vflma/Desktop/DEV/Practica2/Content/Developers/vflma/Collections/' took 0.00s
+[2020.11.11-19.29.28:331][  0]LogFileCache: Scanning file cache for directory 'C:/Users/vflma/Desktop/DEV/Practica2/Content/Collections/' took 0.00s
+[2020.11.11-19.29.28:331][  0]LogContentBrowser: Native class hierarchy populated in 0.0178 seconds. Added 3427 classes and 821 folders.
+[2020.11.11-19.29.28:336][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.11.11-19.29.28:388][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.11-19.29.28:389][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2020.11.11-19.29.28:530][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.11-19.29.28:534][  0]LogSlate: Took 0.000796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.11-19.29.28:540][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.11-19.29.28:627][  0]LogRenderer: Reallocating scene render targets to support 1004x432 Format 10 NumSamples 1 (Frame:1).
+[2020.11.11-19.29.30:619][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.11.11-19.29.30:619][  0]LogLoad: (Engine Initialization) Total time: 14.32 seconds
+[2020.11.11-19.29.30:619][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.11.11-19.29.30:669][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.11.11-19.29.30:679][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.11-19.29.30:872][  1]LogAssetRegistry: Asset discovery search completed in 8.6938 seconds
+[2020.11.11-19.29.30:877][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.11.11-19.29.59:610][257]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveHit' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:776][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.29.59:777][257]LogMetaData: Removing '/Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ReceiveHit' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.30.00:010][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2020.11.11-19.30.00:211][257]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/ThirdPersonCharacterC802AEF049CCDCE79FE21EA2ED95F538.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.11-19.30.00:227][257]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/ThirdPersonCharacterA83C68E54CD17A4BCA73A3988A65BD66.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.11-19.30.00:318][257]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.30.00:318][257]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.11-19.30.00:318][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.11-19.30.00:319][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+[2020.11.11-19.30.00:319][257]LogContentValidation: Display: Validating ObjectRedirector /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+[2020.11.11-19.30.13:264][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.11-19.30.25:441][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.SKEL_PilaVerde_Blueprint_C:BndEvt__Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.SKEL_PilaVerde_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.SKEL_PilaVerde_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.SKEL_PilaVerde_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:876][ 22]LogMetaData: Removing '/Game/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:935][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.11.11-19.30.45:935][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.11.11-19.30.45:936][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.11.11-19.30.45:936][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile.SKEL_FirstPersonProjectile_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.11.11-19.30.45:936][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile.PackageMetaData'
+[2020.11.11-19.30.45:949][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile2.FirstPersonProjectile2_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile2.PackageMetaData'
+[2020.11.11-19.30.45:949][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile2.SKEL_FirstPersonProjectile2_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile2.PackageMetaData'
+[2020.11.11-19.30.45:949][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile2.SKEL_FirstPersonProjectile2_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile2.PackageMetaData'
+[2020.11.11-19.30.45:949][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile2.SKEL_FirstPersonProjectile2_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile2.PackageMetaData'
+[2020.11.11-19.30.45:949][ 22]LogMetaData: Removing '/Game/Blueprints/FirstPersonProjectile2.FirstPersonProjectile2_C:ReceiveHit' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonProjectile2.PackageMetaData'
+[2020.11.11-19.30.45:959][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.SKEL_PilaAmarilla_Blueprint_C:BndEvt__Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.SKEL_PilaAmarilla_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.SKEL_PilaAmarilla_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.SKEL_PilaAmarilla_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:960][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.SKEL_PilaAzul_Blueprint_C:BndEvt__Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.SKEL_PilaAzul_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.SKEL_PilaAzul_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.SKEL_PilaAzul_Blueprint_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.45:967][ 22]LogMetaData: Removing '/Game/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PackageMetaData'
+[2020.11.11-19.30.46:021][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PilaVerde_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaVerde_Blueprint.uasset" SILENT=true
+[2020.11.11-19.30.46:121][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaVerde_Blueprint01448F094E3FEE2EFEDBB68B588BFFAB.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaVerde_Blueprint.uasset'
+[2020.11.11-19.30.46:142][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaVerde_Blueprint2A9F29864CA45309FCA47CAF834719E4.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/PilaVerde_Blueprint.uasset'
+[2020.11.11-19.30.46:160][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonProjectile" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonProjectile.uasset" SILENT=true
+[2020.11.11-19.30.46:180][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonProjectileFDB3AA5B435AAADFD009509727202E47.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonProjectile.uasset'
+[2020.11.11-19.30.46:197][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonProjectile2" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonProjectile2.uasset" SILENT=true
+[2020.11.11-19.30.46:220][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonProjectile2B57B26BF482C5A8E02B0CE970FF540DD.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonProjectile2.uasset'
+[2020.11.11-19.30.46:237][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PilaAmarilla_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaAmarilla_Blueprint.uasset" SILENT=true
+[2020.11.11-19.30.46:259][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaAmarilla_BlueprintDDD563684D3AAA74E255F39725BDEB5A.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaAmarilla_Blueprint.uasset'
+[2020.11.11-19.30.46:313][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaAmarilla_Blueprint9AC4C0B1415B3FB06E834380BFADD45A.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.uasset'
+[2020.11.11-19.30.46:329][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PilaAzul_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaAzul_Blueprint.uasset" SILENT=true
+[2020.11.11-19.30.46:349][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaAzul_BlueprintDEB443DE4671780C742ACF93B5EC1898.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/PilaAzul_Blueprint.uasset'
+[2020.11.11-19.30.46:370][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/PilaAzul_Blueprint3270F85643A8038F07E80CA1A6A04826.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/PilaAzul_Blueprint.uasset'
+[2020.11.11-19.30.46:565][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.11-19.30.46:578][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.11-19.30.46:603][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.11-19.30.46:614][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.11-19.30.46:759][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacterEC7AFF624CBAC656A03D33B83DC1BCEA.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-19.30.46:793][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset" SILENT=true
+[2020.11.11-19.30.46:826][ 22]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_BlueprintE9B1519342A104BD1561D78D73AC7143.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset'
+[2020.11.11-19.30.46:942][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.Default__PilaVerde_Blueprint_C
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaVerde_Blueprint.PilaVerde_Blueprint_C
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonProjectile.FirstPersonProjectile
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonProjectile2.FirstPersonProjectile2
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.Default__PilaAmarilla_Blueprint_C
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAmarilla_Blueprint.PilaAmarilla_Blueprint_C
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.Default__PilaAzul_Blueprint_C
+[2020.11.11-19.30.46:942][ 22]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/PilaAzul_Blueprint.PilaAzul_Blueprint_C
+[2020.11.11-19.30.46:943][ 22]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.11-19.30.46:943][ 22]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.11-19.30.50:918][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.11.11-19.30.58:521][233]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.11-19.30.59:612][233]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2020.11.11-19.31.01:236][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.11-19.31.01:248][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.11-19.31.01:264][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.11-19.31.05:954][478]LogMetaData: Removing '/Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.11.11-19.31.05:954][478]LogMetaData: Removing '/Game/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.11.11-19.31.05:954][478]LogMetaData: Removing '/Game/Blueprints/FirstPersonGameMode.SKEL_FirstPersonGameMode_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonGameMode.PackageMetaData'
+[2020.11.11-19.31.05:989][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonGameMode" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonGameMode.uasset" SILENT=true
+[2020.11.11-19.31.06:089][478]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonGameMode5995937A419D70123025F482258937DF.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonGameMode.uasset'
+[2020.11.11-19.31.06:142][478]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonGameMode1E696E42455AB8A1628818B12D140035.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2020.11.11-19.31.06:235][478]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.31.06:235][478]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.11.11-19.31.06:235][478]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode_C
+[2020.11.11-19.31.06:235][478]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2020.11.11-19.31.06:235][478]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.Default__FirstPersonGameMode_C
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_157' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_181' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_192' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_34' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_62' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.SKEL_FirstPersonCharacter_C' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:036][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:037][633]LogMetaData: Removing '/Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.PackageMetaData'
+[2020.11.11-19.31.09:084][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.11.11-19.31.09:159][633]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacterF6D79922402003B9B3B7799C38A42D57.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-19.31.09:174][633]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter75E1269740391648220FF7A2204ACBE9.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-19.31.09:261][633]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.31.09:261][633]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.11-19.31.09:262][633]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.11.11-19.31.09:262][633]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.Default__FirstPersonCharacter_C
+[2020.11.11-19.31.09:262][633]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C
+[2020.11.11-19.31.11:134][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.11-19.31.11:181][736]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap6475542048368D8394CDE5BCF7479478.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.11-19.31.11:856][736]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltData03DBA9DE4F3FC96144EFCD8985454BB3.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.11-19.31.11:929][736]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.31.11:929][736]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.11-19.31.11:929][736]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.11-19.31.12:331][760]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.11-19.31.12:351][760]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.11-19.31.12:352][760]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.11.11-19.31.12:385][760]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2020.11.11-19.31.12:404][760]LogPlayLevel: [PlayLevel] Compiling Cube_Blueprint before play...
+[2020.11.11-19.31.12:428][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.11-19.31.12:429][760]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (3 blueprints)
+[2020.11.11-19.31.12:459][760]PIE: New page: PIE session: FirstPersonExampleMap (Nov 11, 2020, 9:31:12 PM)
+[2020.11.11-19.31.12:460][760]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.11-19.31.12:462][760]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.11-19.31.12:462][760]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-19.31.12:479][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016759s)
+[2020.11.11-19.31.12:481][760]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.11-19.31.12:481][760]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000197A851D000), frame # 3760
+[2020.11.11-19.31.12:481][760]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000197F64A0400), frame # 3760
+[2020.11.11-19.31.12:482][760]LogPlayLevel: PIE: World Init took: (0.002597s)
+[2020.11.11-19.31.12:482][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019559s)
+[2020.11.11-19.31.12:497][760]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.11-19.31.12:499][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.11-19.31.12:499][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.11-19.31.12:500][760]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.11-19.31.12:500][760]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.11-19.31.12:503][760]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.11-19.31.12:503][760]LogAudioMixer: Display: 1: FrontRight
+[2020.11.11-19.31.12:544][760]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.11.11-19.31.12:544][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.11-19.31.12:545][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.11-19.31.12:545][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.11-19.31.12:545][760]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.11-19.31.12:562][760]LogInit: FAudioDevice initialized.
+[2020.11.11-19.31.12:571][760]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.11-19.31.12:573][760]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.31.12:573][760]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.31.12:573][760]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.31.12:574][760]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.11-20.31.12
+[2020.11.11-19.31.12:575][760]LogWorld: Bringing up level for play took: 0.002178
+[2020.11.11-19.31.12:575][760]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.11.11-19.31.12:578][760]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.11.11-19.31.12:603][760]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.11.11-19.31.12:604][760]PIE: Server logged in
+[2020.11.11-19.31.12:604][760]PIE: Play in editor total start time 0.254 seconds.
+[2020.11.11-19.31.20:339][210]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_C_0.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.11-19.31.20:340][210]PIE: Warning: Invalid Simulate Options: Body (ThirdPersonCharacter_C_0.CharacterMesh0 SK_Mannequin) is set to simulate physics but Collision Enabled is incompatible
+[2020.11.11-19.31.24:356][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.31.24:356][449]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-19.31.24:357][449]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-19.31.24:357][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.31.24:362][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.11-19.31.24:364][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.31.24:373][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.31.24:393][449]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000197F64A0400), frame # 4449
+[2020.11.11-19.31.24:393][449]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000197A851D000), frame # 4449
+[2020.11.11-19.31.24:394][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.11-19.31.24:521][449]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.11-19.31.24:525][450]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.11.11-19.31.27:088][592]LogSlate: Window 'Message Log' being destroyed
+[2020.11.11-19.31.27:099][592]LogSlate: Window 'Message Log' being destroyed
+[2020.11.11-19.31.36:728][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.11-19.31.41:372][101]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.11-19.31.42:510][101]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.11-19.31.42:678][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.11-19.31.42:776][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.11.11-19.31.42:787][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.11.11-19.31.42:797][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.11-19.31.43:740][140]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina)
+[2020.11.11-19.31.44:061][140]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2020.11.11-19.31.46:286][257]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.11-19.31.46:571][257]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2020.11.11-19.31.47:751][257]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.11-19.31.53:778][515]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2020.11.11-19.31.53:789][515]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2020.11.11-19.31.53:791][515]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-19.31.53:791][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.32.43:321][ 51]LogAssetTools: Warning: Failed to import 'D:\MyProject2\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset'. Unknown extension 'uasset'.
+[2020.11.11-19.33.13:743][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.11.11-19.33.13:805][394]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap7FB4676142C85D6708D1FAA3F1A35069.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.11-19.33.14:436][394]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltData6BA884A142C313B77965B0A8423EA983.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.11-19.33.14:509][394]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.33.14:509][394]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.11-19.33.14:510][394]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.11-19.33.52:496][766]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:542][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:543][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:544][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:544][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:544][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:544][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:544][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:545][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:545][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:545][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:545][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:545][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:546][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:547][766]LogLinker: Warning: Failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:550][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:550][766]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Bump_StaticMesh.Bump_StaticMesh Referenced by Bump_StaticMesh
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Bump_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh Referenced by LeftArm_StaticMesh
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/LeftArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh.Linear_Stair_StaticMesh Referenced by Linear_Stair_StaticMesh
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:551][766]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/Ramp_StaticMesh.Ramp_StaticMesh Referenced by Ramp_StaticMesh
+[2020.11.11-19.33.52:552][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/Ramp_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:552][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:552][766]LoadErrors: Failed to load /Game/ThirdPerson/Meshes/RightArm_StaticMesh.RightArm_StaticMesh Referenced by RightArm_StaticMesh
+[2020.11.11-19.33.52:552][766]LogLinker: Warning: While loading '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPerson/Meshes/RightArm_StaticMesh': Can't find file.
+[2020.11.11-19.33.52:921][766]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.11-19.33.52:921][766]LogObjectTools: Currently 11 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9
+[2020.11.11-19.33.52:947][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.11.11-19.34.00:822][766]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.11-19.34.01:539][766]LogUObjectGlobals: Force Deleting 7 Package(s):
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C
+	Asset Name: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+	Asset Name: /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+	Asset Name: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+	Asset Name: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.11.11-19.34.02:407][766]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-19.34.02:407][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.34.03:227][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.11.11-19.34.03:252][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.11.11-19.34.03:272][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.11-19.34.03:291][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.11-19.34.03:313][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.11.11-19.34.03:333][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.11-19.34.05:683][888]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.11-19.34.05:703][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.11-19.34.05:703][888]PIE: New page: PIE session: FirstPersonExampleMap (Nov 11, 2020, 9:34:05 PM)
+[2020.11.11-19.34.05:703][888]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-19.34.05:721][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017196s)
+[2020.11.11-19.34.05:722][888]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.11-19.34.05:723][888]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000198566FD400), frame # 7888
+[2020.11.11-19.34.05:723][888]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198575DB240), frame # 7888
+[2020.11.11-19.34.05:723][888]LogPlayLevel: PIE: World Init took: (0.002434s)
+[2020.11.11-19.34.05:723][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019800s)
+[2020.11.11-19.34.05:753][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.11-19.34.05:755][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.11-19.34.05:755][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.11-19.34.05:756][888]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.11-19.34.05:756][888]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.11-19.34.05:759][888]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.11-19.34.05:759][888]LogAudioMixer: Display: 1: FrontRight
+[2020.11.11-19.34.05:803][888]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.11.11-19.34.05:803][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.11-19.34.05:803][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.11-19.34.05:803][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.11-19.34.05:803][888]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.11-19.34.05:820][888]LogInit: FAudioDevice initialized.
+[2020.11.11-19.34.05:829][888]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.11-19.34.05:832][888]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.34.05:832][888]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.34.05:832][888]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-19.34.05:833][888]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.11-20.34.05
+[2020.11.11-19.34.05:833][888]LogWorld: Bringing up level for play took: 0.002349
+[2020.11.11-19.34.05:834][888]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.11.11-19.34.05:835][888]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.11.11-19.34.05:836][888]PIE: Server logged in
+[2020.11.11-19.34.05:837][888]PIE: Play in editor total start time 0.134 seconds.
+[2020.11.11-19.34.07:467][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.34.07:467][979]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-19.34.07:467][979]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-19.34.07:467][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.34.07:478][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.11-19.34.07:483][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-19.34.07:530][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-19.34.07:531][979]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198575DB240), frame # 7979
+[2020.11.11-19.34.07:532][979]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000198566FD400), frame # 7979
+[2020.11.11-19.34.07:534][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.11.11-19.34.07:577][980]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.11.11-19.34.13:250][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.11-19.34.20:231][304]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:058][  0]LogMetaData: Removing '/Game/Blueprints/IA/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.34:106][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/ThirdPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/ThirdPersonCharacter.uasset" SILENT=true
+[2020.11.11-19.34.34:142][  0]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/ThirdPersonCharacterFA4CD9CD484300D1DC4AC4A28F007004.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/ThirdPersonCharacter.uasset'
+[2020.11.11-19.34.34:326][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.11.11-19.34.34:363][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.11.11-19.34.34:383][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.11-19.34.34:423][  0]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/ThirdPersonCharacterA36ED12342DD6B530745348472E85FAB.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.11.11-19.34.34:440][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset" SILENT=true
+[2020.11.11-19.34.34:480][  0]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_Blueprint215639DB45F6FD1D440ED096BF31B610.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset'
+[2020.11.11-19.34.34:577][  0]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.34.34:577][  0]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.11.11-19.34.34:577][  0]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.11-19.34.46:034][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.11-19.34.46:038][622]LogMetaData: Removing '/Game/Blueprints/IA/Enemigo.Enemigo_C' ref from Metadata '/Game/Blueprints/IA/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.46:038][622]LogMetaData: Removing '/Game/Blueprints/IA/Enemigo.SKEL_Enemigo_C' ref from Metadata '/Game/Blueprints/IA/ThirdPersonCharacter.PackageMetaData'
+[2020.11.11-19.34.46:108][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-19.34.46:142][622]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo817D0C65453E270CB27668A74A44E340.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-19.34.46:334][622]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.11.11-19.34.46:368][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.11.11-19.34.46:388][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.11-19.34.46:475][622]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-19.34.46:475][622]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-19.35.02:880][169]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.11.11-19.35.26:884][534]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-19.35.27:648][535]LogSlate: Took 0.034548 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.11-19.36.24:018][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-19.36.24:053][155]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo974D956449A8936A1E5C508CB2D3189F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-19.36.24:071][155]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-19.36.24:071][155]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-19.36.52:891][716]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.11-19.37.08:474][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-19.37.08:499][531]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo74DA790047B2D98B2813C392D1F0FC2B.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-19.37.08:514][531]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-19.37.08:514][531]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-19.37.08:935][553]BlueprintLog: New page: Compile Enemigo
+[2020.11.11-19.37.08:996][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.11.11-19.39.41:416][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-19.39.48:987][576]LogEditorViewport: Clicking on Actor (LMB): Baldosa_Blueprint_C (Baldosa_Blueprint3)
+[2020.11.11-19.40.21:440][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.11.11-19.40.21:584][460]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap6D5C3C65454B47463CA421886E1AC62E.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.11-19.40.22:257][460]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltData361D711943A04A395CD9C48903D99004.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.11-19.40.22:276][460]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-19.40.22:276][460]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.11-19.40.22:276][460]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.11-19.40.46:651][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-19.40.50:846][119]Cmd: TRANSACTION UNDO
+[2020.11.11-19.40.50:846][119]LogEditorTransaction: Undo Move Actors
+[2020.11.11-19.41.09:240][166]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2020.11.11-19.42.47:877][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BB_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset" SILENT=true
+[2020.11.11-19.42.47:887][100]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BB_Enemigo0223F69942E8C5681E65F1888A8A62CF.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset'
+[2020.11.11-19.42.48:105][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.11.11-19.42.48:147][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.11.11-19.42.48:171][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.11-19.42.48:229][100]AssetCheck: New page: Asset Save: BB_Enemigo
+[2020.11.11-19.42.48:229][100]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/IA/BB_Enemigo.BB_Enemigo
+[2020.11.11-19.43.01:237][862]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Blueprints/IA/BB_Enemigo.BB_Enemigo
+[2020.11.11-19.43.05:932][127]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.11-19.43.32:373][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BB_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset" SILENT=true
+[2020.11.11-19.43.32:391][603]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BB_EnemigoAFBCF49547B442E9434ABE948D40D891.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset'
+[2020.11.11-19.43.32:406][603]AssetCheck: New page: Asset Save: BB_Enemigo
+[2020.11.11-19.43.32:406][603]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/IA/BB_Enemigo.BB_Enemigo
+[2020.11.11-19.47.26:404][207]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-19.48.19:093][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BB_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset" SILENT=true
+[2020.11.11-19.48.19:108][301]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BB_EnemigoB8F6C67E4F8DB8A8AD4A51B48290643F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset'
+[2020.11.11-19.48.19:128][301]AssetCheck: New page: Asset Save: BB_Enemigo
+[2020.11.11-19.48.19:128][301]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/IA/BB_Enemigo.BB_Enemigo
+[2020.11.11-19.48.20:539][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BT_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset" SILENT=true
+[2020.11.11-19.48.20:549][374]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_EnemigoC59CF40D41B609E88E94219E4D2C9410.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset'
+[2020.11.11-19.48.20:572][374]AssetCheck: New page: Asset Save: BT_Enemigo
+[2020.11.11-19.48.20:572][374]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-19.51.01:050][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.11.11-19.51.01:105][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_Auto1FD6349644C36D2EE450C01897D514205.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.11.11-19.51.01:108][395]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.083
+[2020.11.11-19.51.01:108][395]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.083
+[2020.11.11-19.51.01:108][395]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.11.11-19.51.01:124][395]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.11.11-19.51.01:124][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonCharacter]
+[2020.11.11-19.51.01:197][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter_Auto14B88C953436DF78EFD30DE8AAE73A945.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2020.11.11-19.51.01:198][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2020.11.11-19.51.01:198][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonGameMode]
+[2020.11.11-19.51.01:301][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonGameMode_Auto14B18935F478415AF6A715A83212A6AB0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/FirstPersonGameMode_Auto1.uasset'
+[2020.11.11-19.51.01:305][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA/Enemigo_Controlador] ([1] browsable assets)...
+[2020.11.11-19.51.01:305][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA/Enemigo_Controlador]
+[2020.11.11-19.51.01:333][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador_Auto1E37447664B9A8C4ECC4EB2BA56B48973.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/IA/Enemigo_Controlador_Auto1.uasset'
+[2020.11.11-19.51.01:335][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA/BB_Enemigo] ([1] browsable assets)...
+[2020.11.11-19.51.01:335][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA/BB_Enemigo]
+[2020.11.11-19.51.01:351][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BB_Enemigo_Auto1B517B86F42C935C2EF2FBC8460D5CDFA.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/IA/BB_Enemigo_Auto1.uasset'
+[2020.11.11-19.51.01:352][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA/BT_Enemigo] ([1] browsable assets)...
+[2020.11.11-19.51.01:353][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA/BT_Enemigo]
+[2020.11.11-19.51.01:387][395]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_Enemigo_Auto117CA0EB2418A6963B80AB29D220F2D23.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/IA/BT_Enemigo_Auto1.uasset'
+[2020.11.11-19.51.01:429][395]LogFileHelpers: Auto-saving content packages took 0.322
+[2020.11.11-19.52.39:835][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IA/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.11.11-19.52.40:215][945]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/IA/BTTask_BlueprintBase_New.
+[2020.11.11-19.52.41:746][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BB_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset" SILENT=true
+[2020.11.11-19.52.41:762][ 23]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BB_Enemigo4F049D1C4F40CD88472057BABDB86BAC.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BB_Enemigo.uasset'
+[2020.11.11-19.52.41:788][ 23]AssetCheck: New page: Asset Save: BB_Enemigo
+[2020.11.11-19.52.41:788][ 23]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/IA/BB_Enemigo.BB_Enemigo
+[2020.11.11-19.52.43:326][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BT_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset" SILENT=true
+[2020.11.11-19.52.43:340][ 97]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_Enemigo3107C0F34D161539255C22A9AC37B027.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset'
+[2020.11.11-19.52.43:363][ 97]AssetCheck: New page: Asset Save: BT_Enemigo
+[2020.11.11-19.52.43:363][ 97]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-19.53.17:279][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.11-19.53.17:289][944]LogMetaData: Removing '/Game/Blueprints/IA/BTT_PerseguirJugador.SKEL_BTT_PerseguirJugador_C' ref from Metadata '/Game/Blueprints/IA/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.11.11-19.53.17:289][944]LogMetaData: Removing '/Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador_C' ref from Metadata '/Game/Blueprints/IA/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.11.11-19.53.17:331][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_PerseguirJugador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset" SILENT=true
+[2020.11.11-19.53.17:344][944]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugador8D5130924699CCDEB4C1DE90216901A5.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset'
+[2020.11.11-19.53.17:573][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.11.11-19.53.17:612][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.11.11-19.53.17:638][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.11.11-19.53.17:689][944]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/IA/BTT_PerseguirJugador.
+[2020.11.11-19.53.17:699][944]AssetCheck: New page: Asset Save: BTT_PerseguirJugador
+[2020.11.11-19.53.17:699][944]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador
+[2020.11.11-19.55.29:712][ 21]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IA/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2020.11.11-19.55.30:100][ 21]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Blueprints/IA/BTTask_BlueprintBase_New.
+[2020.11.11-19.55.51:253][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.11.11-19.55.51:265][229]LogMetaData: Removing '/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.SKEL_BTT_EncontrarPuntoPatrulla_C' ref from Metadata '/Game/Blueprints/IA/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.11.11-19.55.51:265][229]LogMetaData: Removing '/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla_C' ref from Metadata '/Game/Blueprints/IA/BTTask_BlueprintBase_New.PackageMetaData'
+[2020.11.11-19.55.51:314][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-19.55.51:325][229]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla0CD01EB445923219C74F77AD5BE8467E.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-19.55.51:540][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.11.11-19.55.51:578][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.11.11-19.55.51:606][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.11-19.55.51:661][229]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.
+[2020.11.11-19.55.51:672][229]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-19.55.51:672][229]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-19.56.07:866][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BT_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset" SILENT=true
+[2020.11.11-19.56.07:963][950]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_EnemigoDE77FCFA4617F58B4C1E21BDA9003365.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset'
+[2020.11.11-19.56.07:981][950]AssetCheck: New page: Asset Save: BT_Enemigo
+[2020.11.11-19.56.07:982][950]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-19.58.39:119][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BT_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset" SILENT=true
+[2020.11.11-19.58.39:141][599]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_EnemigoA65A0F524E061C302C6066889BDC805A.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset'
+[2020.11.11-19.58.39:159][599]AssetCheck: New page: Asset Save: BT_Enemigo
+[2020.11.11-19.58.39:159][599]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-20.01.07:972][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.11.11-20.01.08:123][ 46]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_Auto238A2142F43D1F5BC0C545588529D8E9F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.11.11-20.01.08:130][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.198
+[2020.11.11-20.01.08:130][ 46]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.198
+[2020.11.11-20.01.08:131][ 46]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2020.11.11-20.01.08:154][ 46]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2020.11.11-20.01.08:154][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonCharacter]
+[2020.11.11-20.01.08:232][ 46]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter_Auto2BA49113C4761C55D179991AA45F23698.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2020.11.11-20.01.08:233][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2020.11.11-20.01.08:234][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonGameMode]
+[2020.11.11-20.01.08:254][ 46]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonGameMode_Auto2E8A9ADAF45E8DD58167C1DA07BECB16B.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/FirstPersonGameMode_Auto2.uasset'
+[2020.11.11-20.01.08:255][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA/Enemigo_Controlador] ([1] browsable assets)...
+[2020.11.11-20.01.08:255][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA/Enemigo_Controlador]
+[2020.11.11-20.01.08:267][ 46]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador_Auto2226AEB8C4673EA1ABAF61C9F112FE1B8.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/IA/Enemigo_Controlador_Auto2.uasset'
+[2020.11.11-20.01.08:269][ 46]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/IA/BTT_PerseguirJugador] ([1] browsable assets)...
+[2020.11.11-20.01.08:269][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/IA/BTT_PerseguirJugador]
+[2020.11.11-20.01.08:284][ 46]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugador_Auto243154C3D48F1ADFDED16DCA303230CEF.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/Blueprints/IA/BTT_PerseguirJugador_Auto2.uasset'
+[2020.11.11-20.01.08:285][ 46]LogFileHelpers: Auto-saving content packages took 0.154
+[2020.11.11-20.02.39:394][888]BlueprintLog: New page: Compile BTT_PerseguirJugador
+[2020.11.11-20.02.39:549][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.11.11-20.02.40:093][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_PerseguirJugador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset" SILENT=true
+[2020.11.11-20.02.40:140][914]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugadorA9E2A82C46CAFA842BC8588CDB69E5B0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset'
+[2020.11.11-20.02.40:159][914]AssetCheck: New page: Asset Save: BTT_PerseguirJugador
+[2020.11.11-20.02.40:159][914]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador
+[2020.11.11-20.04.13:477][859]LogSlate: Took 0.028539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.11.11-20.04.59:354][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-20.04.59:415][ 55]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo20AEAFA448975AA4B85099A9CEFEA575.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-20.04.59:435][ 55]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-20.04.59:435][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-20.05.00:201][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-20.05.00:227][ 91]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo45C7E5854203D173686F60B4F0F90FE0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-20.05.00:245][ 91]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-20.05.00:245][ 91]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-20.05.00:613][107]BlueprintLog: New page: Compile Enemigo
+[2020.11.11-20.05.00:690][107]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.11.11-20.07.32:802][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_PerseguirJugador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset" SILENT=true
+[2020.11.11-20.07.32:831][224]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugadorBE08C8004E3068D8E328CAA5A13172E1.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset'
+[2020.11.11-20.07.32:851][224]AssetCheck: New page: Asset Save: BTT_PerseguirJugador
+[2020.11.11-20.07.32:851][224]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador
+[2020.11.11-20.07.33:298][236]BlueprintLog: New page: Compile BTT_PerseguirJugador
+[2020.11.11-20.07.33:358][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.11.11-20.08.25:157][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_PerseguirJugador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset" SILENT=true
+[2020.11.11-20.08.25:180][216]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugador52EA4BD34EF5E548415874A6E1EBF19E.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset'
+[2020.11.11-20.08.25:195][216]AssetCheck: New page: Asset Save: BTT_PerseguirJugador
+[2020.11.11-20.08.25:195][216]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador
+[2020.11.11-20.08.25:546][233]BlueprintLog: New page: Compile BTT_PerseguirJugador
+[2020.11.11-20.08.25:602][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.11.11-20.09.08:269][367]LogEditorTransaction: Undo Promote To Variable
+[2020.11.11-20.09.33:614][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.09.33:639][607]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla5DCF4C054E926E7850633380F0EFCB20.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.09.33:661][607]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.09.33:661][607]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.09.34:098][629]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.09.34:157][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.11.11-20.12.16:956][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.12.16:983][595]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrullaBAD25AB64B4FC13F0DD658986FCFDFC9.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.12.17:004][595]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.12.17:004][595]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.12.17:489][619]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.12.17:491][619]LogBlueprint: Error: [Compiler BTT_EncontrarPuntoPatrulla] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.11.11-20.12.17:491][619]LogBlueprint: Error: [Compiler BTT_EncontrarPuntoPatrulla] The current value of the ' Key ' pin is invalid: 'Key' in action 'Set Blackboard Value as Vector' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.11.11-20.12.17:545][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.11.11-20.13.08:861][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.13.08:913][ 51]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrullaE7B47F124FE361ADC1D247951C0D456C.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.13.08:942][ 51]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.08:942][ 51]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.09:243][ 66]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.09:299][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.11.11-20.13.57:954][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.13.57:981][408]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla60C64E7847EC815B1AD094B8EAFE894B.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.13.57:999][408]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.57:999][408]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.58:301][423]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.13.58:360][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.11.11-20.14.17:867][233]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.14.18:644][234]LogRenderer: Reallocating scene render targets to support 1004x516 Format 10 NumSamples 1 (Frame:1).
+[2020.11.11-20.14.20:882][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.14.20:897][332]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador9B1377274B9D96B6EC9BC5AEF4D65F95.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.14.20:915][332]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/IA/Enemigo_Controlador.
+[2020.11.11-20.14.20:927][332]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.14.20:927][332]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.14.21:254][347]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.14.21:314][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.11.11-20.14.52:169][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.14.52:264][841]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador353FD4AF4752C2856ECAF4A86AA2F75A.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.14.52:305][841]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.14.52:306][841]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.14.53:049][877]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.14.53:107][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.11.11-20.14.53:991][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.14.54:015][901]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorB569F08F4FDAD89E11465FAC625B98E0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.14.54:032][901]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.14.54:032][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.15.12:823][318]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.11.11-20.17.12:963][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.17.13:169][ 88]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador4CC5667A4EB10749086484B8DCB996A6.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.17.13:190][ 88]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.17.13:190][ 88]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.17.13:458][102]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.17.13:520][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.11.11-20.17.53:665][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.17.53:689][134]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador4BF6994B48B685ED3A464794344B9763.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.17.53:711][134]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.17.53:711][134]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.17.54:028][149]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.17.54:088][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.11.11-20.19.21:471][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.19.21:535][126]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorB830DD164506BA82A8EEB2934C0FC800.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.19.21:555][126]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.19.21:555][126]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.19.21:832][137]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.19.21:836][137]LogBlueprint: Error: [Compiler Enemigo_Controlador] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2020.11.11-20.19.21:895][137]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.11.11-20.19.25:699][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.19.25:722][303]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorEFFA87554503972BCBF644ABBDABE19F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.19.25:740][303]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.19.25:740][303]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.19.34:617][654]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.19.34:621][654]LogBlueprint: Error: [Compiler Enemigo_Controlador] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2020.11.11-20.19.34:675][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.11.11-20.19.35:225][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.19.35:277][673]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador005F1A514C3E2DB3748D4BB53F42603B.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.19.35:291][673]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.19.35:291][673]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.22.12:305][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.22.12:387][217]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorFB19CC4544EBCCBF799F94959DB448DA.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.22.12:405][217]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.22.12:405][217]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.22.12:621][226]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.22.12:637][226]LogBlueprint: Error: [Compiler Enemigo_Controlador] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' in action 'Set Value as Object' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.11.11-20.22.12:694][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.11.11-20.22.42:639][409]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.22.42:704][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.11.11-20.22.47:191][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.22.47:221][578]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_Controlador364149FF4B478F59A1DDC78D887D7B3D.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.22.47:240][578]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.22.47:240][578]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.24.03:142][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.24.03:295][621]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorECE7F9FA4CB74103A4A76DAFF69397AE.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.24.03:333][621]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.24.03:333][621]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.24.03:499][628]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.24.03:558][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.11.11-20.25.12:857][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.11.11-20.25.12:974][424]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_Auto356D9467D48A512C13E7D54BF74160F40.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.11.11-20.25.12:977][424]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.154
+[2020.11.11-20.25.12:977][424]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.154
+[2020.11.11-20.25.45:803][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.25.45:867][762]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorE3AF35554567FE67EBCF8A9E3AA84179.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.25.45:899][762]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.25.45:899][762]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.25.46:222][776]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.25.46:286][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.11.11-20.27.14:108][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.27.14:152][516]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorD623F4AA4B3F815181B4208E4C25E866.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.27.14:172][516]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.27.14:172][516]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.27.14:736][541]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.27.14:801][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.11.11-20.29.14:706][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-20.29.14:947][545]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/EnemigoF980BC054ECADD9DD28576BF503CF781.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-20.29.14:963][545]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-20.29.14:963][545]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-20.29.15:635][577]BlueprintLog: New page: Compile Enemigo
+[2020.11.11-20.29.15:739][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.11.11-20.31.18:399][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BT_Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset" SILENT=true
+[2020.11.11-20.31.18:426][868]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BT_Enemigo65E97DC44CC90463F19459854A11D445.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BT_Enemigo.uasset'
+[2020.11.11-20.31.18:446][868]AssetCheck: New page: Asset Save: BT_Enemigo
+[2020.11.11-20.31.18:446][868]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/IA/BT_Enemigo.BT_Enemigo
+[2020.11.11-20.31.25:961][ 26]BlueprintLog: New page: Compile Enemigo
+[2020.11.11-20.31.26:057][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.11.11-20.31.26:798][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset" SILENT=true
+[2020.11.11-20.31.26:826][ 35]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/EnemigoC1C076E041CF19138ADE499AC84065F9.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo.uasset'
+[2020.11.11-20.31.26:841][ 35]AssetCheck: New page: Asset Save: Enemigo
+[2020.11.11-20.31.26:842][ 35]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo.Enemigo
+[2020.11.11-20.31.34:557][350]BlueprintLog: New page: Compile BTT_PerseguirJugador
+[2020.11.11-20.31.34:619][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.11.11-20.31.35:297][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_PerseguirJugador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset" SILENT=true
+[2020.11.11-20.31.35:372][378]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_PerseguirJugador2E6AFCE94B3FA84962E9CA9543222058.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_PerseguirJugador.uasset'
+[2020.11.11-20.31.35:390][378]AssetCheck: New page: Asset Save: BTT_PerseguirJugador
+[2020.11.11-20.31.35:390][378]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_PerseguirJugador.BTT_PerseguirJugador
+[2020.11.11-20.31.36:678][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.31.36:775][425]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla15EE35F24787F5240435F9ABEA41A6EA.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.31.36:796][425]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.31.36:796][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.31.37:188][442]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.31.37:245][442]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.11.11-20.31.39:026][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/Enemigo_Controlador" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset" SILENT=true
+[2020.11.11-20.31.39:055][488]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Enemigo_ControladorFB44DC8F458D312DDDAB0CABC61E143F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/Enemigo_Controlador.uasset'
+[2020.11.11-20.31.39:070][488]AssetCheck: New page: Asset Save: Enemigo_Controlador
+[2020.11.11-20.31.39:070][488]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/Enemigo_Controlador.Enemigo_Controlador
+[2020.11.11-20.31.39:370][500]BlueprintLog: New page: Compile Enemigo_Controlador
+[2020.11.11-20.31.39:431][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.11.11-20.31.45:540][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-20.31.55:978][266]Cmd: DELETE
+[2020.11.11-20.31.55:978][266]Cmd: ACTOR DELETE
+[2020.11.11-20.31.56:417][266]LogEditorActor: Deleted Actor: Enemigo_C
+[2020.11.11-20.31.56:465][266]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.11.11-20.31.56:467][266]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2020.11.11-20.31.58:650][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.11-20.32.00:840][477]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.11-20.32.00:870][477]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.11.11-20.32.00:872][477]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2020.11.11-20.32.00:927][477]LogPlayLevel: [PlayLevel] Compiling Cube_Blueprint before play...
+[2020.11.11-20.32.00:994][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.11.11-20.32.00:995][477]LogPlayLevel: PlayLevel: Blueprint regeneration took 124 ms (2 blueprints)
+[2020.11.11-20.32.00:995][477]PIE: New page: PIE session: FirstPersonExampleMap (Nov 11, 2020, 10:32:00 PM)
+[2020.11.11-20.32.00:996][477]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-20.32.01:016][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020039s)
+[2020.11.11-20.32.01:018][477]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.11-20.32.01:018][477]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000198D22E4800), frame # 178477
+[2020.11.11-20.32.01:018][477]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000198B85C4A40), frame # 178477
+[2020.11.11-20.32.01:019][477]LogPlayLevel: PIE: World Init took: (0.003040s)
+[2020.11.11-20.32.01:019][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023302s)
+[2020.11.11-20.32.01:064][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.11.11-20.32.01:065][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.11-20.32.01:066][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.11-20.32.01:066][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.11-20.32.01:067][477]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.11-20.32.01:067][477]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.11-20.32.01:072][477]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.11-20.32.01:072][477]LogAudioMixer: Display: 1: FrontRight
+[2020.11.11-20.32.01:122][477]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.11.11-20.32.01:123][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.11-20.32.01:123][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.11-20.32.01:123][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.11-20.32.01:124][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.11-20.32.01:141][477]LogInit: FAudioDevice initialized.
+[2020.11.11-20.32.01:155][477]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.11-20.32.01:158][477]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.32.01:158][477]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.32.01:158][477]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.32.01:160][477]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.11-21.32.01
+[2020.11.11-20.32.01:162][477]LogWorld: Bringing up level for play took: 0.004307
+[2020.11.11-20.32.01:162][477]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.11.11-20.32.01:164][477]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.11.11-20.32.01:165][477]PIE: Server logged in
+[2020.11.11-20.32.01:166][477]PIE: Play in editor total start time 0.305 seconds.
+[2020.11.11-20.32.30:013][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-20.32.30:013][143]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-20.32.30:013][143]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-20.32.30:014][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-20.32.30:021][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.11-20.32.30:025][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-20.32.30:059][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-20.32.30:085][143]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000198B85C4A40), frame # 180143
+[2020.11.11-20.32.30:085][143]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000198D22E4800), frame # 180143
+[2020.11.11-20.32.30:087][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.11.11-20.32.30:133][144]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.11.11-20.33.09:639][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.11.11-20.33.09:738][420]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMapED4C85074D32F8145EC88491AC2B2FBA.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.11-20.33.10:535][420]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltData5834CEE64EBB07115098D4AC3ED1C082.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.11-20.33.10:583][420]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.11-20.33.10:583][420]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.11-20.33.10:583][420]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.11-20.50.41:878][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.50.42:411][504]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla871A804E4D00051E41B29AAF0A282A3F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.50.42:429][504]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.50.42:429][504]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.50.42:852][527]BlueprintLog: New page: Compile BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.50.43:503][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.11.11-20.51.08:262][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.51.08:836][856]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla9F75093144DEFC31DE5987810D305202.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.51.08:886][856]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.51.08:886][856]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.51.33:025][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.51.33:293][223]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrulla65B5700647EC1A33AAED078DD22440C3.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.51.33:307][223]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.51.33:307][223]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.51.54:799][884]MapCheck: New page: Map Check
+[2020.11.11-20.51.55:184][884]LightingResults: New page: Lighting Build - Nov 11, 2020, 10:51:55 PM
+[2020.11.11-20.51.58:197][884]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.11-20.51.59:546][884]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.11-20.52.04:017][884]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.11-20.52.10:530][884]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2020.11.11-20.52.10:918][884]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión 127.0.0.1:8008
+
+Server stack trace: 
+   en System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   en System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   en System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   en System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   en System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   en System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   en System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   en NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) en D:\Build\++UE4+Licensee\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:línea 2811
+[2020.11.11-20.52.16:331][884]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.11-20.52.16:331][884]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5176
+[2020.11.11-20.52.29:348][884]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2020.11.11-20.52.29:976][884]LogEditorBuildUtils: Build time 0:34
+[2020.11.11-20.52.34:079][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.11-20.52.35:635][102]LogRenderer: Reallocating scene render targets to support 1004x680 Format 10 NumSamples 1 (Frame:219141).
+[2020.11.11-20.52.36:171][103]LogRenderer: Reallocating scene render targets to support 1004x824 Format 10 NumSamples 1 (Frame:219144).
+[2020.11.11-20.52.38:147][202]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.11-20.52.38:205][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.11-20.52.38:205][202]PIE: New page: PIE session: FirstPersonExampleMap (Nov 11, 2020, 10:52:38 PM)
+[2020.11.11-20.52.38:206][202]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-20.52.38:244][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037748s)
+[2020.11.11-20.52.38:246][202]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.11.11-20.52.38:246][202]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000019870305600), frame # 192202
+[2020.11.11-20.52.38:247][202]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000019856A77D80), frame # 192202
+[2020.11.11-20.52.38:247][202]LogPlayLevel: PIE: World Init took: (0.003604s)
+[2020.11.11-20.52.38:247][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041576s)
+[2020.11.11-20.52.38:383][202]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.11-20.52.38:449][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.11-20.52.38:449][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.11-20.52.38:449][202]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.11-20.52.38:450][202]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.11-20.52.38:467][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.11-20.52.38:467][202]LogAudioMixer: Display: 1: FrontRight
+[2020.11.11-20.52.38:584][202]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek High Definition Audio)
+[2020.11.11-20.52.38:632][202]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.11-20.52.38:632][202]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.11-20.52.38:632][202]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.11-20.52.38:824][202]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.11-20.52.38:837][202]LogInit: FAudioDevice initialized.
+[2020.11.11-20.52.39:288][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.11.11-20.52.39:291][202]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.52.39:327][202]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.52.39:327][202]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.11-20.52.39:420][202]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.11.11-21.52.39
+[2020.11.11-20.52.39:450][202]LogWorld: Bringing up level for play took: 0.159761
+[2020.11.11-20.52.39:591][202]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.11.11-20.52.39:621][202]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.11.11-20.52.39:684][202]PIE: Server logged in
+[2020.11.11-20.52.39:686][202]PIE: Play in editor total start time 1.486 seconds.
+[2020.11.11-20.53.03:833][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-20.53.03:833][427]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.11.11-20.53.03:856][427]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.11-20.53.03:856][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-20.53.03:870][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.11-20.53.03:874][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.11-20.53.03:983][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.11-20.53.03:984][427]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000019856A77D80), frame # 193427
+[2020.11.11-20.53.03:984][427]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019870305600), frame # 193427
+[2020.11.11-20.53.03:987][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.11-20.53.04:100][428]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.11.11-20.53.06:489][538]Cmd: SELECT NONE
+[2020.11.11-20.53.15:667][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset" SILENT=true
+[2020.11.11-20.53.16:157][ 31]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BTT_EncontrarPuntoPatrullaCB0AADD142B2BD0CFB10A9B9368D48ED.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/IA/BTT_EncontrarPuntoPatrulla.uasset'
+[2020.11.11-20.53.16:174][ 31]AssetCheck: New page: Asset Save: BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.53.16:174][ 31]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/IA/BTT_EncontrarPuntoPatrulla.BTT_EncontrarPuntoPatrulla
+[2020.11.11-20.53.18:314][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.11.11-20.53.20:802][145]LogSlate: Window 'Save Content' being destroyed
+[2020.11.11-20.53.20:864][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.11.11-20.53.22:115][145]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter62BFE5D94EC408AFA5743F8EEAA92B60.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.22:126][145]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.11.11-20.53.22:626][145]LogFileManager: Error: Error deleting file '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'.
+[2020.11.11-20.53.22:626][145]LogSavePackage: Error: Error saving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.27:759][145]LogSlate: Window 'Message' being destroyed
+[2020.11.11-20.53.27:764][145]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Blueprints/FirstPersonCharacter' (FirstPersonCharacter.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2020.11.11-20.53.27:764][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.11.11-20.53.28:167][145]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter589521F54BB0A9495A8F95A5FCDF1DD7.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.28:168][145]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.11.11-20.53.28:669][145]LogFileManager: Error: Error deleting file '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'.
+[2020.11.11-20.53.28:669][145]LogSavePackage: Error: Error saving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.38:660][145]LogSlate: Window 'Message' being destroyed
+[2020.11.11-20.53.38:667][145]Message dialog closed, result: Retry, title: Message, text: The asset '/Game/Blueprints/FirstPersonCharacter' (FirstPersonCharacter.uasset) failed to save.
+
+Cancel: Stop saving all assets and return to the editor.
+Retry: Attempt to save the asset again.
+Continue: Skip saving this asset only.
+[2020.11.11-20.53.38:668][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FirstPersonCharacter" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset" SILENT=true
+[2020.11.11-20.53.39:153][145]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonCharacter3CDAA3A745D7A13155D9D4B40AD092D7.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.39:153][145]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset', retrying in .5s...
+[2020.11.11-20.53.39:654][145]LogFileManager: Error: Error deleting file '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'.
+[2020.11.11-20.53.39:654][145]LogSavePackage: Error: Error saving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/FirstPersonCharacter.uasset'
+[2020.11.11-20.53.49:539][145]LogRHI: Error: Present Fail Count 1
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SyncInterval 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.Width 588
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.Height 296
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000090598
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.11.11-20.53.49:539][145]LogRHI: Error: SwapChainDesc.Flags 2050
