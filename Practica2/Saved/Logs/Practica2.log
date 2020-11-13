@@ -952,3 +952,253 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.13-18.55.37:854][863]LogSlate: Window 'EnemigoControlador' being destroyed
 [2020.11.13-18.55.37:881][863]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
 [2020.11.13-18.55.37:881][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-18.56.36:439][516]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina)
+[2020.11.13-18.58.41:843][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.11.13-18.58.42:043][118]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap82051B684E4E3FEFA639848191225AF9.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.13-18.58.42:711][118]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltDataB1EF7799412AD6E99F3EE6AB768FC65C.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.13-18.58.42:729][118]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-18.58.42:729][118]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.13-18.58.42:729][118]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.11.13-18.59.21:454][772]LogSlate: Window 'Create Merged Actor' being destroyed
+[2020.11.13-18.59.23:790][876]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.13-18.59.23:816][876]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.13-19.00.15:613][271]LogSlate: Window 'Create Merged Actor' being destroyed
+[2020.11.13-19.00.15:884][271]LogStaticMesh: Building static mesh Cabinita...
+[2020.11.13-19.00.16:047][271]LogStaticMesh: Built static mesh [0.11s] /Game/Cabinita.Cabinita
+[2020.11.13-19.00.18:320][352]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.13-19.00.18:358][352]LogSlate: Window 'Merge Actors' being destroyed
+[2020.11.13-19.00.21:730][500]LogActorFactory: Actor Factory created Cabinita
+[2020.11.13-19.00.22:101][521]LogActorFactory: Actor Factory created Cabinita
+[2020.11.13-19.00.24:061][634]Cmd: DELETE
+[2020.11.13-19.00.24:061][634]Cmd: ACTOR DELETE
+[2020.11.13-19.00.24:112][634]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.13-19.00.24:135][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.11.13-19.00.24:142][634]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2020.11.13-19.00.27:166][775]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.11.13-19.00.28:623][775]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.13-19.00.29:101][775]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cabinita.Cabinita
+[2020.11.13-19.00.30:667][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.11.13-19.00.50:614][708]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina2)
+[2020.11.13-19.00.54:814][931]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina)
+[2020.11.13-19.01.02:943][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.13-19.01.06:864][485]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2020.11.13-19.01.08:531][580]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina)
+[2020.11.13-19.01.08:955][601]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cabina)
+[2020.11.13-19.01.10:380][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.13-19.01.22:454][867]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2020.11.13-19.01.22:463][867]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2020.11.13-19.01.22:464][867]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.13-19.01.22:464][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.13-19.02.26:342][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Radial_Gradient" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Radial_Gradient.uasset" SILENT=true
+[2020.11.13-19.02.26:359][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Radial_GradientE2D5C80843E15A1AEBB7E991A8638AC4.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Radial_Gradient.uasset'
+[2020.11.13-19.02.26:378][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_smoke_subUV" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_smoke_subUV.uasset" SILENT=true
+[2020.11.13-19.02.26:393][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_smoke_subUV503983334A00ABEE551925BCB21CE628.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_smoke_subUV.uasset'
+[2020.11.13-19.02.26:413][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Spark" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Spark.uasset" SILENT=true
+[2020.11.13-19.02.26:427][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Spark01D9CA6640AE5A73DA2DC3A33B700581.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Spark.uasset'
+[2020.11.13-19.02.26:482][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Burst" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Burst.uasset" SILENT=true
+[2020.11.13-19.02.26:497][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Burst4056F8C144B3B375EBFD51920C65A041.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Burst.uasset'
+[2020.11.13-19.02.26:523][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Dust_Particle" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Dust_Particle.uasset" SILENT=true
+[2020.11.13-19.02.26:537][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Dust_ParticleB58785DA44C807BCF9C7FBB01B46CDC8.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Dust_Particle.uasset'
+[2020.11.13-19.02.26:560][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_explosion_subUV" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_explosion_subUV.uasset" SILENT=true
+[2020.11.13-19.02.26:583][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_explosion_subUV67D951734182CAC8801A4EA54B9BC431.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_explosion_subUV.uasset'
+[2020.11.13-19.02.26:604][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Fire_SubUV" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Fire_SubUV.uasset" SILENT=true
+[2020.11.13-19.02.26:621][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Fire_SubUV918844C94B62E86D768F8CB8AA8C5912.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Fire_SubUV.uasset'
+[2020.11.13-19.02.26:643][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_flare_01" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/m_flare_01.uasset" SILENT=true
+[2020.11.13-19.02.26:658][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/m_flare_0134F5228D448D39FC1C076A85A5558F78.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/m_flare_01.uasset'
+[2020.11.13-19.02.26:679][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Heat_Distortion" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Heat_Distortion.uasset" SILENT=true
+[2020.11.13-19.02.26:695][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_Heat_DistortionE9872ECC44C86A6A91E212A053A38527.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_Heat_Distortion.uasset'
+[2020.11.13-19.02.26:717][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_radial_ramp" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_radial_ramp.uasset" SILENT=true
+[2020.11.13-19.02.26:733][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/M_radial_ramp15187E2645F0C3F8783AD6A2A355E4E0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Materials/M_radial_ramp.uasset'
+[2020.11.13-19.02.27:956][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.11.13-19.02.27:987][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.11.13-19.02.28:006][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.13-19.02.28:028][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.13-19.02.28:048][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.13-19.02.28:068][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.13-19.02.28:096][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.13-19.02.28:119][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.13-19.02.28:140][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.13-19.02.28:160][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.13-19.02.28:190][893]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.11.13-19.02.28:211][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.11.13-19.02.28:251][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Fire" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Fire.uasset" SILENT=true
+[2020.11.13-19.02.28:298][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_FireB65118B14C3C3ECEE418B983FBAC2DAF.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Fire.uasset'
+[2020.11.13-19.02.28:303][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Sparks" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Sparks.uasset" SILENT=true
+[2020.11.13-19.02.28:363][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_Sparks814DE5844A4003EB6629E5AD60BF9F5F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Sparks.uasset'
+[2020.11.13-19.02.28:371][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Explosion" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Explosion.uasset" SILENT=true
+[2020.11.13-19.02.28:428][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_Explosion8CEDBF1A4D1093F311A9D2A6D1876EAE.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Explosion.uasset'
+[2020.11.13-19.02.28:432][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Smoke" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Smoke.uasset" SILENT=true
+[2020.11.13-19.02.28:457][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_Smoke6F19F8ED4D6D8CB49C01349727ABBA89.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Smoke.uasset'
+[2020.11.13-19.02.28:461][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Steam_Lit" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Steam_Lit.uasset" SILENT=true
+[2020.11.13-19.02.28:488][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_Steam_Lit507981D94E99D798D7211881DC2750ED.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Steam_Lit.uasset'
+[2020.11.13-19.02.28:493][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/P_Ambient_Dust" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Ambient_Dust.uasset" SILENT=true
+[2020.11.13-19.02.28:521][893]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/P_Ambient_Dust7CE913F44AAB4FDD3848DA9093FD36AE.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/P_Ambient_Dust.uasset'
+[2020.11.13-19.02.28:688][893]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Radial_Gradient.M_Radial_Gradient
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_smoke_subUV.M_smoke_subUV
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Spark.M_Spark
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Burst.M_Burst
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Dust_Particle.M_Dust_Particle
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_explosion_subUV.M_explosion_subUV
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Fire_SubUV.M_Fire_SubUV
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/m_flare_01.m_flare_01
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_Heat_Distortion.M_Heat_Distortion
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating Material /Game/Materials/M_radial_ramp.M_radial_ramp
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Fire.P_Fire
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Sparks.P_Sparks
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Explosion.P_Explosion
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Smoke.P_Smoke
+[2020.11.13-19.02.28:688][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit
+[2020.11.13-19.02.28:689][893]LogContentValidation: Display: Validating ParticleSystem /Game/StarterContent/Particles/P_Ambient_Dust.P_Ambient_Dust
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.Baldosa_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.Baldosa_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.SKEL_Baldosa_Blueprint_C:BndEvt__Cube_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.SKEL_Baldosa_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.SKEL_Baldosa_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.SKEL_Baldosa_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:742][778]LogMetaData: Removing '/Game/Blueprints/Baldosa_Blueprint.Baldosa_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.Cube_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.Cube_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.Cube_Blueprint_C:ReceiveHit' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.SKEL_Cube_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.Cube_Blueprint_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.Cube_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.SKEL_Cube_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.SKEL_Cube_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.SKEL_Cube_Blueprint_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:754][778]LogMetaData: Removing '/Game/Blueprints/Cube_Blueprint.SKEL_Cube_Blueprint_C:ReceiveHit' ref from Metadata '/Game/StarterContent/Particles/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.02.55:839][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Baldosa_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosa_Blueprint.uasset" SILENT=true
+[2020.11.13-19.02.55:861][778]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Baldosa_Blueprint47EC4E524C7AC6C864A8A5876BE336E8.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosa_Blueprint.uasset'
+[2020.11.13-19.02.55:917][778]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Baldosa_Blueprint8D11E56444D0F4366771F8987DB34CE6.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Baldosa_Blueprint.uasset'
+[2020.11.13-19.02.55:934][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cube_Blueprint.uasset" SILENT=true
+[2020.11.13-19.02.55:998][778]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_BlueprintB0B540E1456CBF9731858A9C0A9F1D05.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cube_Blueprint.uasset'
+[2020.11.13-19.02.56:035][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset" SILENT=true
+[2020.11.13-19.02.56:068][778]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_Blueprint0F4FB7FB470044D6B11151A244AE6F2E.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset'
+[2020.11.13-19.02.56:197][778]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.02.56:197][778]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Baldosa_Blueprint.Baldosa_Blueprint
+[2020.11.13-19.02.56:197][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint
+[2020.11.13-19.02.56:197][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Default__Baldosa_Blueprint_C
+[2020.11.13-19.02.56:197][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint_C
+[2020.11.13-19.02.56:198][778]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Cube_Blueprint.Cube_Blueprint
+[2020.11.13-19.02.56:198][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.13-19.02.56:198][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Default__Cube_Blueprint_C
+[2020.11.13-19.02.56:198][778]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint_C
+[2020.11.13-19.02.57:398][836]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StarterContent/Particles/EditorCube10_Blueprint.EditorCube10_Blueprint
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.EditorCube10_Blueprint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.EditorCube10_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.SKEL_EditorCube10_Blueprint_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.SKEL_EditorCube10_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.SKEL_EditorCube10_Blueprint_C:UserConstructionScript' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.SKEL_EditorCube10_Blueprint_C' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.EditorCube10_Blueprint_C:ReceiveBeginPlay' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:014][415]LogMetaData: Removing '/Game/Blueprints/EditorCube10_Blueprint.EditorCube10_Blueprint_C:ReceiveTick' ref from Metadata '/Game/StarterContent/Particles/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.11:075][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EditorCube10_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/EditorCube10_Blueprint.uasset" SILENT=true
+[2020.11.13-19.03.11:098][415]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/EditorCube10_Blueprint25A0C03C4044624EA4983F91322FA6E8.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/EditorCube10_Blueprint.uasset'
+[2020.11.13-19.03.11:175][415]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/EditorCube10_Blueprint188262124069417D85C1549F6355E898.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/EditorCube10_Blueprint.uasset'
+[2020.11.13-19.03.11:282][415]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.11:282][415]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/EditorCube10_Blueprint.EditorCube10_Blueprint
+[2020.11.13-19.03.11:282][415]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/EditorCube10_Blueprint.EditorCube10_Blueprint
+[2020.11.13-19.03.11:282][415]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/EditorCube10_Blueprint.Default__EditorCube10_Blueprint_C
+[2020.11.13-19.03.11:282][415]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/EditorCube10_Blueprint.EditorCube10_Blueprint_C
+[2020.11.13-19.03.18:523][711]Cmd: DELETE
+[2020.11.13-19.03.18:524][711]Cmd: ACTOR DELETE
+[2020.11.13-19.03.18:531][711]LogEditorActor: Deleted Actor: EditorCube10_Blueprint_C
+[2020.11.13-19.03.18:562][711]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.11.13-19.03.18:565][711]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.11.13-19.03.29:624][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.11.13-19.03.29:693][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.11.13-19.03.29:762][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.11.13-19.03.29:767][246]LogMetaData: Removing '/Game/Blueprints/MobiliarioElectrificado.MobiliarioElectrificado_C' ref from Metadata '/Game/Blueprints/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.29:767][246]LogMetaData: Removing '/Game/Blueprints/MobiliarioElectrificado.SKEL_MobiliarioElectrificado_C' ref from Metadata '/Game/Blueprints/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.29:767][246]LogMetaData: Removing '/Game/Blueprints/MobiliarioElectrificado.MobiliarioElectrificado:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/EditorCube10_Blueprint.PackageMetaData'
+[2020.11.13-19.03.29:839][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MobiliarioElectrificado" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/MobiliarioElectrificado.uasset" SILENT=true
+[2020.11.13-19.03.29:864][246]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/MobiliarioElectrificado17CCEEA144F18ADA0D7B5D88A7ED48A0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/MobiliarioElectrificado.uasset'
+[2020.11.13-19.03.30:066][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.11.13-19.03.30:100][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.11.13-19.03.30:124][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.11.13-19.03.30:174][246]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/EditorCube10_Blueprint69EBC0D3419E8E4664EBBFB6C9DF3ABD.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/EditorCube10_Blueprint.uasset'
+[2020.11.13-19.03.30:266][246]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.30:266][246]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MobiliarioElectrificado.MobiliarioElectrificado
+[2020.11.13-19.03.30:266][246]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/EditorCube10_Blueprint.EditorCube10_Blueprint
+[2020.11.13-19.03.30:267][246]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/EditorCube10_Blueprint.EditorCube10_Blueprint_C
+[2020.11.13-19.03.36:863][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.11.13-19.03.36:918][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.11.13-19.03.36:989][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.13-19.03.36:994][520]LogMetaData: Removing '/Game/Blueprints/Cabinas.Cabinas_C' ref from Metadata '/Game/Blueprints/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.03.36:994][520]LogMetaData: Removing '/Game/Blueprints/Cabinas.SKEL_Cabinas_C' ref from Metadata '/Game/Blueprints/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.03.36:994][520]LogMetaData: Removing '/Game/Blueprints/Cabinas.Cabinas:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Cube_Blueprint.PackageMetaData'
+[2020.11.13-19.03.37:066][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabinas" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cabinas.uasset" SILENT=true
+[2020.11.13-19.03.37:099][520]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cabinas7DB1D5E34671D73875393EB15F0E659A.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cabinas.uasset'
+[2020.11.13-19.03.37:293][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.13-19.03.37:328][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.11.13-19.03.37:351][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.13-19.03.37:387][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset" SILENT=true
+[2020.11.13-19.03.37:399][520]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_BlueprintC860169E4EE3794FAAC43B8781382DD3.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset'
+[2020.11.13-19.03.37:498][520]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.37:498][520]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Cabinas.Cabinas
+[2020.11.13-19.03.37:498][520]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.13-19.03.37:498][520]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint_C
+[2020.11.13-19.03.44:358][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:359][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:359][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:359][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:360][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:360][821]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.44:396][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.11.13-19.03.44:399][821]LogMetaData: Removing '/Game/Blueprints/Baldosas.Baldosas_C' ref from Metadata '/Game/Blueprints/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.03.44:399][821]LogMetaData: Removing '/Game/Blueprints/Baldosas.SKEL_Baldosas_C' ref from Metadata '/Game/Blueprints/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.03.44:399][821]LogMetaData: Removing '/Game/Blueprints/Baldosas.Baldosas:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Baldosa_Blueprint.PackageMetaData'
+[2020.11.13-19.03.44:481][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Baldosas" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosas.uasset" SILENT=true
+[2020.11.13-19.03.44:501][821]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BaldosasE06F35344BC26577AB9BE5BFEF34AFB0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosas.uasset'
+[2020.11.13-19.03.44:755][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.11.13-19.03.44:789][821]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.11.13-19.03.44:812][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.11.13-19.03.44:860][821]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Baldosa_BlueprintBBBDB4A148A7CE406DD0A2BB416223B2.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Baldosa_Blueprint.uasset'
+[2020.11.13-19.03.44:956][821]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.44:956][821]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Baldosas.Baldosas
+[2020.11.13-19.03.44:956][821]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint
+[2020.11.13-19.03.44:956][821]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint_C
+[2020.11.13-19.03.49:788][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:788][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:789][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:789][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint2.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:789][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:789][ 11]LogPhysics: Warning: Scale for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Baldosa_Blueprint3.Cube has a component set to zero, which will result in a bad body instance. Scale:X=2.000 Y=2.000 Z=0.000
+[2020.11.13-19.03.49:826][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.11.13-19.03.49:828][ 11]LogMetaData: Removing '/Game/Blueprints/Baldosa.Baldosa_C' ref from Metadata '/Game/Blueprints/Baldosas.PackageMetaData'
+[2020.11.13-19.03.49:828][ 11]LogMetaData: Removing '/Game/Blueprints/Baldosa.SKEL_Baldosa_C' ref from Metadata '/Game/Blueprints/Baldosas.PackageMetaData'
+[2020.11.13-19.03.49:828][ 11]LogMetaData: Removing '/Game/Blueprints/Baldosa.Baldosa:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Baldosas.PackageMetaData'
+[2020.11.13-19.03.49:906][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Baldosa" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosa.uasset" SILENT=true
+[2020.11.13-19.03.49:925][ 11]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/BaldosaD8B7875D47CDF067C5248695C0B9439B.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Baldosa.uasset'
+[2020.11.13-19.03.50:114][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.11.13-19.03.50:148][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.11.13-19.03.50:170][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.13-19.03.50:207][ 11]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Baldosa_BlueprintE5B8CABA43061C8F3BF7DBAAD5C54465.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Baldosa_Blueprint.uasset'
+[2020.11.13-19.03.50:314][ 11]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.50:315][ 11]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Baldosa.Baldosa
+[2020.11.13-19.03.50:315][ 11]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint
+[2020.11.13-19.03.50:315][ 11]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Baldosa_Blueprint.Baldosa_Blueprint_C
+[2020.11.13-19.03.54:551][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.11.13-19.03.54:629][182]LogUObjectHash: Compacting FUObjectHashTables data took  11.24ms
+[2020.11.13-19.03.54:700][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.11.13-19.03.54:705][182]LogMetaData: Removing '/Game/Blueprints/Cabina.Cabina_C' ref from Metadata '/Game/Blueprints/Cabinas.PackageMetaData'
+[2020.11.13-19.03.54:705][182]LogMetaData: Removing '/Game/Blueprints/Cabina.SKEL_Cabina_C' ref from Metadata '/Game/Blueprints/Cabinas.PackageMetaData'
+[2020.11.13-19.03.54:705][182]LogMetaData: Removing '/Game/Blueprints/Cabina.Cabina:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Cabinas.PackageMetaData'
+[2020.11.13-19.03.54:784][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Cabina" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cabina.uasset" SILENT=true
+[2020.11.13-19.03.54:818][182]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cabina4C71AE8D4DAA1B1FAEC1CC836876FAE0.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/Blueprints/Cabina.uasset'
+[2020.11.13-19.03.55:011][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.11.13-19.03.55:043][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.11.13-19.03.55:065][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.11.13-19.03.55:104][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Particles/Cube_Blueprint" FILE="../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset" SILENT=true
+[2020.11.13-19.03.55:117][182]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/Cube_BlueprintBCAAB4CF43519F372F8EFD87FE3A92B5.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/StarterContent/Particles/Cube_Blueprint.uasset'
+[2020.11.13-19.03.55:220][182]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.03.55:220][182]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Cabina.Cabina
+[2020.11.13-19.03.55:220][182]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint
+[2020.11.13-19.03.55:220][182]LogContentValidation: Display: Validating ObjectRedirector /Game/StarterContent/Particles/Cube_Blueprint.Cube_Blueprint_C
+[2020.11.13-19.04.18:710][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.11.13-19.04.18:764][989]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap8C90538E4D6D2E2784CDEA82EDFE4C0F.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.13-19.04.19:398][989]LogSavePackage: Moving '../../../../../../Users/vflma/Desktop/DEV/Practica2/Saved/FirstPersonExampleMap_BuiltDataCFF259A2466A83F950C8C2ABD1911328.tmp' to '../../../../../../Users/vflma/Desktop/DEV/Practica2/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.13-19.04.19:465][989]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-19.04.19:465][989]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.13-19.04.19:465][989]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
