@@ -1,0 +1,1677 @@
+﻿Log file open, 12/07/20 16:11:49
+LogInit: Display: Running engine for game: practica3
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.451228
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz, GPU: Intel(R) HD Graphics Family
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.07-15.11.51:024][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.07-15.11.51:024][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.07-15.11.51:025][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.07-15.11.51:026][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:026][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:040][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-15.11.51:040][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-15.11.51:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-15.11.51:042][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-15.11.51:043][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-15.11.51:044][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-15.11.51:044][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-15.11.51:045][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-15.11.51:045][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.07-15.11.51:047][  0]LogHAL: Display: Platform has ~ 8 GB [8521035776 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.07-15.11.51:047][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.07-15.11.51:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.07-15.11.51:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.07-15.11.51:049][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.07-15.11.51:050][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Scalability.ini]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.12.07-15.11.51:051][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.07-15.11.51:053][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.07-15.11.51:053][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.07-15.11.51:053][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.07-15.11.51:053][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/raque/Desktop/DEV/practica3/Saved/Config/Windows/Engine.ini]
+[2020.12.07-15.11.51:055][  0]LogInit: Computer: DESKTOP-6C23Q1K
+[2020.12.07-15.11.51:055][  0]LogInit: User: raque
+[2020.12.07-15.11.51:055][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.12.07-15.11.51:056][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.07-15.11.51:056][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.12.07-15.11.51:057][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.07-15.11.51:057][  0]LogMemory: Process Physical Memory: 113.52 MB used, 113.53 MB peak
+[2020.12.07-15.11.51:057][  0]LogMemory: Process Virtual Memory: 94.95 MB used, 94.95 MB peak
+[2020.12.07-15.11.51:057][  0]LogMemory: Physical Memory: 2554.94 MB used,  5571.36 MB free, 8126.29 MB total
+[2020.12.07-15.11.51:057][  0]LogMemory: Virtual Memory: 5124.50 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2020.12.07-15.11.51:072][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.07-15.11.51:284][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.07-15.11.51:291][  0]LogInit: Overriding language with editor language configuration option (en).
+[2020.12.07-15.11.51:291][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2020.12.07-15.11.51:291][  0]LogInit: Using OS detected locale (es-ES).
+[2020.12.07-15.11.51:971][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.07-15.11.52:105][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.07-15.11.52:105][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.07-15.11.52:727][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.07-15.11.52:727][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.07-15.11.52:727][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.07-15.11.52:727][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.07-15.11.52:933][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 840M' (Feature Level 11_0)
+[2020.12.07-15.11.52:934][  0]LogD3D11RHI:       2010/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.07-15.11.52:945][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2020.12.07-15.11.52:945][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.12.07-15.11.52:950][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.07-15.11.52:950][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.07-15.11.52:950][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.07-15.11.53:002][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.07-15.11.53:002][  0]LogD3D11RHI:     GPU DeviceId: 0x1341 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.07-15.11.53:002][  0]LogWindows: EnumDisplayDevices:
+[2020.12.07-15.11.53:002][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:0 D:1)
+[2020.12.07-15.11.53:002][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2020.12.07-15.11.53:003][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2020.12.07-15.11.53:003][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.12.07-15.11.53:003][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 840M
+[2020.12.07-15.11.53:003][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.12.07-15.11.53:003][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.12.07-15.11.53:004][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2020.12.07-15.11.53:113][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.07-15.11.53:115][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.07-15.11.53:189][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.07-15.11.53:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.07-15.11.53:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.07-15.11.53:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.07-15.11.53:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.07-15.11.53:962][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.07-15.11.53:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.07-15.11.54:004][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.07-15.11.54:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.07-15.11.54:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.07-15.11.54:064][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.07-15.11.54:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.07-15.11.54:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.07-15.11.54:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.07-15.11.54:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.07-15.11.54:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.07-15.11.54:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.07-15.11.54:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.07-15.11.54:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.07-15.11.54:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.07-15.11.54:251][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.07-15.11.54:272][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.07-15.11.54:453][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/raque/Desktop/DEV/practica3/Intermediate/Shaders/WorkingDirectory/2216/).
+[2020.12.07-15.11.54:453][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/raque/AppData/Local/Temp/UnrealShaderWorkingDir/5706EDB04723FCE4FF278E8713DBB4E1/'.
+[2020.12.07-15.11.54:455][  0]LogXGEController: Cleaning working directory: C:/Users/raque/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.12.07-15.11.54:456][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.07-15.11.54:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.07-15.11.54:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.07-15.11.56:035][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.07-15.11.56:270][  0]LogDerivedDataCache: Loaded boot cache 0.23s 76MB C:/Users/raque/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-15.11.56:270][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/raque/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.12.07-15.11.56:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/raque/Desktop/DEV/practica3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.07-15.11.56:271][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.07-15.11.56:271][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/raque/Desktop/DEV/practica3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-15.11.56:271][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.07-15.11.56:295][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.07-15.11.56:295][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.07-15.11.56:295][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.07-15.11.56:297][  0]LogDerivedDataCache: Using Local data cache path C:/Users/raque/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.07-15.11.56:298][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.07-15.11.56:298][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.07-15.11.56:414][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.07-15.11.56:417][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.07-15.11.56:548][  0]LogAssetRegistry: FAssetRegistry took 0.0117 seconds to start up
+[2020.12.07-15.11.57:530][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.07-15.11.57:970][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.07-15.11.57:970][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.07-15.11.57:970][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.07-15.11.57:970][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.07-15.11.57:970][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.07-15.11.58:036][  0]LogNetVersion: practica3 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 294642547)
+[2020.12.07-15.11.59:707][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001F909A49780), frame # 0
+[2020.12.07-15.11.59:707][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9098FFB00), frame # 0
+[2020.12.07-15.11.59:715][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F909969C00), frame # 0
+[2020.12.07-15.11.59:853][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.101777 seconds
+[2020.12.07-15.11.59:860][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.12.07-15.11.59:861][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.12.07-15.11.59:861][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.07-15.12.01:107][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.07-15.12.01:122][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.07-15.12.01:386][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.01:387][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.01:402][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.01:413][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.01:431][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.01:460][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.07-15.12.01:460][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.07-15.12.02:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.07-15.12.02:255][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-15.12.02:255][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.07-15.12.02:385][  0]LogOcInput: OculusInput pre-init called
+[2020.12.07-15.12.02:416][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.07-15.12.02:416][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.07-15.12.02:649][  0]LogEngine: Initializing Engine...
+[2020.12.07-15.12.02:653][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.07-15.12.02:653][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.07-15.12.02:659][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.12.07-15.12.02:894][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.07-15.12.02:950][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.07-15.12.02:950][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F912B83C00), frame # 0
+[2020.12.07-15.12.02:950][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F912BE8680), frame # 0
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.07-15.12.02:976][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.07-15.12.02:976][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.07-15.12.02:979][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.07-15.12.02:979][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.07-15.12.03:015][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-15.12.03:016][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-15.12.03:081][  0]LogAudioMixer: Display: Using Audio Device Altavoces (High Definition Audio Device)
+[2020.12.07-15.12.03:084][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.07-15.12.03:089][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.07-15.12.03:091][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.07-15.12.03:092][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.07-15.12.03:095][  0]LogInit: FAudioDevice initialized.
+[2020.12.07-15.12.03:096][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.07-15.12.03:194][  0]LogDerivedDataCache: Saved boot cache 0.10s 76MB C:/Users/raque/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.12.07-15.12.03:200][  0]LogInit: Texture streaming: Enabled
+[2020.12.07-15.12.03:238][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.07-15.12.03:238][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.07-15.12.03:242][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.07-15.12.03:363][  0]LogInit: Transaction tracking system initialized
+[2020.12.07-15.12.03:432][  0]BlueprintLog: New page: Editor Load
+[2020.12.07-15.12.03:670][  0]LocalizationService: Localization service is disabled
+[2020.12.07-15.12.03:948][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.07-15.12.03:949][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.07-15.12.04:189][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.07-15.12.04:189][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.07-15.12.04:624][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raque/Desktop/DEV/practica3/Content/' took 0.05s
+[2020.12.07-15.12.05:152][  0]SourceControl: Source control is disabled
+[2020.12.07-15.12.05:153][  0]LogUnrealEdMisc: Loading editor; pre map load, took 21.450
+[2020.12.07-15.12.05:154][  0]Cmd: MAP LOAD FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-15.12.05:156][  0]LightingResults: New page: Lighting Build
+[2020.12.07-15.12.05:164][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.12.05:165][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.12.05:165][  0]MapCheck: New page: Map Check
+[2020.12.07-15.12.05:165][  0]LightingResults: New page: Lighting Build
+[2020.12.07-15.12.05:186][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F912B83C00), frame # 0
+[2020.12.07-15.12.05:186][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F912BE8680), frame # 0
+[2020.12.07-15.12.05:188][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.12.07-15.12.05:915][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.12.07-15.12.05:915][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F904B0FE00), frame # 0
+[2020.12.07-15.12.05:916][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F904B1BB00), frame # 0
+[2020.12.07-15.12.05:921][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-15.12.05:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.12.07-15.12.05:942][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-15.12.05:943][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,577ms to complete.
+[2020.12.07-15.12.05:943][  0]LogFileHelpers: Loading map 'MainMenu' took 0.790
+[2020.12.07-15.12.05:976][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.273
+[2020.12.07-15.12.06:207][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-15.12.06:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-15.12.06:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-15.12.06:253][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.07-15.12.06:278][  0]LogCollectionManager: Loaded 0 collections in 0.003866 seconds
+[2020.12.07-15.12.06:324][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raque/Desktop/DEV/practica3/Saved/Collections/' took 0.00s
+[2020.12.07-15.12.06:324][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raque/Desktop/DEV/practica3/Content/Developers/raque/Collections/' took 0.00s
+[2020.12.07-15.12.06:324][  0]LogFileCache: Scanning file cache for directory 'C:/Users/raque/Desktop/DEV/practica3/Content/Collections/' took 0.00s
+[2020.12.07-15.12.06:324][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 3427 classes and 821 folders.
+[2020.12.07-15.12.06:335][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.07-15.12.06:543][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.07-15.12.06:550][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 2 classes and 0 folders.
+[2020.12.07-15.12.06:925][  0]LogSlate: Took 0.002353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.07-15.12.06:932][  0]LogSlate: Took 0.001467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.07-15.12.06:949][  0]LogSlate: Took 0.001508 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.07-15.12.07:178][  0]LogRenderer: Reallocating scene render targets to support 992x472 Format 10 NumSamples 1 (Frame:1).
+[2020.12.07-15.12.07:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.12.07-15.12.07:433][  0]LogLoad: (Engine Initialization) Total time: 23.73 seconds
+[2020.12.07-15.12.07:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.07-15.12.07:509][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.07-15.12.07:566][  0]LogSlate: Took 0.001393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-15.12.07:581][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/raque/Desktop/DEV/practica3/Content/' took 0.13s
+[2020.12.07-15.12.07:701][  3]LogAssetRegistry: Asset discovery search completed in 11.1560 seconds
+[2020.12.07-15.12.07:713][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.12.07-15.12.08:494][ 55]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-15.16.46:669][832]LogRenderer: Reallocating scene render targets to support 1024x472 Format 10 NumSamples 1 (Frame:19822).
+[2020.12.07-15.16.46:757][833]LogRenderer: Reallocating scene render targets to support 1036x472 Format 10 NumSamples 1 (Frame:19824).
+[2020.12.07-15.16.46:850][834]LogRenderer: Reallocating scene render targets to support 1040x472 Format 10 NumSamples 1 (Frame:19826).
+[2020.12.07-15.16.46:937][835]LogRenderer: Reallocating scene render targets to support 1052x472 Format 10 NumSamples 1 (Frame:19828).
+[2020.12.07-15.16.47:025][836]LogRenderer: Reallocating scene render targets to support 1056x472 Format 10 NumSamples 1 (Frame:19830).
+[2020.12.07-15.17.28:890][398]LogRenderer: Reallocating scene render targets to support 1488x472 Format 10 NumSamples 1 (Frame:23315).
+[2020.12.07-15.17.50:908][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.12.07-15.17.56:404][933]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.17.56:600][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.12.07-15.17.56:618][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.07-15.17.56:654][933]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.12.07-15.17.56:669][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.07-15.18.05:745][418]LogScript: Warning: Switch statement failed to match case for index property Temp_byte_Variable
+	BP_Key_C /Engine/Transient.World_2:PersistentLevel.BP_Key_C_0
+	Function /Game/Blueprints/BP_Key.BP_Key_C:setMaterial:00D9
+[2020.12.07-15.18.21:558][221]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BB_Neighbour1F7D043F41FF591E6765DFAAE929E523.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BB_Neighbour.uasset'
+[2020.12.07-15.18.21:703][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.12.07-15.18.21:725][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.12.07-15.18.21:739][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.07-15.18.21:821][221]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BT_Neighbour67C3DE1847166601052124BEBEE35031.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/BT_Neighbour.uasset'
+[2020.12.07-15.18.21:895][221]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-15.18.21:895][221]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Neighbour/Blueprints/IA/BB_Neighbour.BB_Neighbour
+[2020.12.07-15.18.21:895][221]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Neighbour/Blueprints/BT_Neighbour.BT_Neighbour
+[2020.12.07-15.18.26:885][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.18.26:886][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.18.26:886][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.18.26:886][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.18.26:894][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.BTT_Spawn_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.18.26:894][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.SKEL_BTT_Spawn_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.18.26:894][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.SKEL_BTT_Spawn_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.18.26:894][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.BTT_Spawn_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.18.26:900][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.BTT_Speak_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Speak.PackageMetaData'
+[2020.12.07-15.18.26:900][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.SKEL_BTT_Speak_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Speak.PackageMetaData'
+[2020.12.07-15.18.26:900][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.SKEL_BTT_Speak_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Speak.PackageMetaData'
+[2020.12.07-15.18.26:900][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.BTT_Speak_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Speak.PackageMetaData'
+[2020.12.07-15.18.26:907][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.BTT_Start_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Start.PackageMetaData'
+[2020.12.07-15.18.26:907][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.SKEL_BTT_Start_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Start.PackageMetaData'
+[2020.12.07-15.18.26:907][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.SKEL_BTT_Start_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Start.PackageMetaData'
+[2020.12.07-15.18.26:907][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.BTT_Start_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Start.PackageMetaData'
+[2020.12.07-15.18.26:913][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.BTT_Stop_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Stop.PackageMetaData'
+[2020.12.07-15.18.26:914][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.SKEL_BTT_Stop_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Stop.PackageMetaData'
+[2020.12.07-15.18.26:914][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.SKEL_BTT_Stop_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Stop.PackageMetaData'
+[2020.12.07-15.18.26:914][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.BTT_Stop_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BTT_Stop.PackageMetaData'
+[2020.12.07-15.18.26:920][505]LogMetaData: Removing '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour.BT_Neighbour:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BT_Neighbour.PackageMetaData'
+[2020.12.07-15.18.26:991][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_FindRandomPatrolCF644CBA41E7100E352AA8A51A692F1D.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.uasset'
+[2020.12.07-15.18.27:012][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_SpawnAC9C2AC443451B03DDB33B85C3049B8B.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.uasset'
+[2020.12.07-15.18.27:034][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_Speak020D84BB4B7F54984864EE92BA142DB7.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.uasset'
+[2020.12.07-15.18.27:055][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_Start611B486F4E63B142F53DAFA337055613.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BTT_Start.uasset'
+[2020.12.07-15.18.27:074][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_StopCAFFBDA04F6E9E45238E5EA288868F84.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.uasset'
+[2020.12.07-15.18.27:093][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BT_NeighbourB6C56DF547D9C766E6367A891B6E1904.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour.uasset'
+[2020.12.07-15.18.27:428][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.07-15.18.27:442][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.07-15.18.27:457][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.07-15.18.27:471][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.07-15.18.27:485][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.12.07-15.18.27:499][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.07-15.18.27:519][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.07-15.18.27:533][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.07-15.18.27:623][505]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Key_Neighbour_ControllerEE9627C24FE7FD6A7282C08926B79C0E.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.uasset'
+[2020.12.07-15.18.27:718][505]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.BTT_Spawn
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.BTT_Speak
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.BTT_Start
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.BTT_Stop
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour.BT_Neighbour
+[2020.12.07-15.18.27:718][505]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller
+[2020.12.07-15.18.29:363][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.12.07-15.18.33:190][564]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.18.33:324][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.07-15.18.33:366][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.12.07-15.18.33:384][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.07-15.18.38:211][910]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.12.07-15.18.38:460][910]LogObjectTools: Deleting 1 worlds: /Game/Blueprints/Neighbour/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.07-15.18.38:460][910]LogObjectTools: Currently 4 active worlds: /Game/Maps/MainMenu.MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2
+[2020.12.07-15.18.38:473][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.07-15.18.40:253][910]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.18.40:294][910]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.18.40:295][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.18.40:444][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.12.07-15.18.40:461][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.12.07-15.18.40:494][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.07-15.18.40:513][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.12.07-15.19.18:981][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.07-15.19.24:212][827]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.19.28:838][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_RedKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_RedKey.uasset" SILENT=true
+[2020.12.07-15.19.28:863][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_RedKeyB0B2223B475251D57C2972B87DEF738B.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_RedKey.uasset'
+[2020.12.07-15.19.28:866][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/M_RedKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_RedKey.uasset" SILENT=true
+[2020.12.07-15.19.28:899][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_RedKey9B15D41B489E59D9FB283BA92A41E245.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_RedKey.uasset'
+[2020.12.07-15.19.28:929][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_BlueKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_BlueKey.uasset" SILENT=true
+[2020.12.07-15.19.28:947][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_BlueKeyA0D298D2464129CCDCF7468B41769027.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_BlueKey.uasset'
+[2020.12.07-15.19.28:950][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/M_BlueKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_BlueKey.uasset" SILENT=true
+[2020.12.07-15.19.28:981][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_BlueKey177AA9D348BF063DF0DE8DB5E1552E8A.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_BlueKey.uasset'
+[2020.12.07-15.19.29:010][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_GreenKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_GreenKey.uasset" SILENT=true
+[2020.12.07-15.19.29:032][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_GreenKeyADA5D1B9461ADCE498C37985CAF19FB9.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_GreenKey.uasset'
+[2020.12.07-15.19.29:035][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/M_GreenKey" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_GreenKey.uasset" SILENT=true
+[2020.12.07-15.19.29:065][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_GreenKey7E47D4444FD4599BA3384AB892ED70F1.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/M_GreenKey.uasset'
+[2020.12.07-15.19.29:094][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Key" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_Key.uasset" SILENT=true
+[2020.12.07-15.19.29:111][ 46]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/M_KeyFB1B815E42FBADEC269940AC954B65D3.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Materials/M_Key.uasset'
+[2020.12.07-15.19.29:238][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.12.07-15.19.29:259][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.12.07-15.19.29:274][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.07-15.19.29:343][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-15.19.29:343][ 46]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_RedKey.M_RedKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/M_RedKey.M_RedKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_BlueKey.M_BlueKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/M_BlueKey.M_BlueKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/M_GreenKey.M_GreenKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/M_GreenKey.M_GreenKey
+[2020.12.07-15.19.29:344][ 46]LogContentValidation: Display: Validating Material /Game/Materials/M_Key.M_Key
+[2020.12.07-15.19.38:986][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2020.12.07-15.19.40:599][736]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.19.40:722][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.12.07-15.19.40:759][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.12.07-15.19.40:782][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.SKEL_BP_Key_Neighbour_Controller_C:ReceivePossess' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.SKEL_BP_Key_Neighbour_Controller_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.SKEL_BP_Key_Neighbour_Controller_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.SKEL_BP_Key_Neighbour_Controller_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.SKEL_BP_Key_Neighbour_Controller_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:385][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller_C:ReceivePossess' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Key_Neighbour_Controller.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:calculatePoint.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:calculatePoint.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:getSpawnTransform.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:SpawnKey.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:Speak.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:StartNeighbour.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character:StopNeighbour.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:394][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.SKEL_BP_Neighbour_Character_C:BndEvt__CollisionDistance_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:395][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.SKEL_BP_Neighbour_Character_C:BndEvt__CollisionDistance_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:395][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.SKEL_BP_Neighbour_Character_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:395][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.SKEL_BP_Neighbour_Character_C:calculatePoint' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:395][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.SKEL_BP_Neighbour_Character_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:395][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character_C:calculatePoint' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.PackageMetaData'
+[2020.12.07-15.19.51:470][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Key_Neighbour_Controller18CD17374D62B720ACB7719FE2ED88AE.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Key_Neighbour_Controller.uasset'
+[2020.12.07-15.19.51:564][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Neighbour_CharacterB4AE2F834D7DE672E17950AB80EB8B39.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Neighbour_Character.uasset'
+[2020.12.07-15.19.51:601][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Neighbour_Character624C0091478FC318E7B67F86463F9BEF.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.uasset'
+[2020.12.07-15.19.51:745][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.07-15.19.51:772][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.12.07-15.19.51:785][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.07-15.19.51:916][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Stop.BTT_Stop_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.PackageMetaData'
+[2020.12.07-15.19.51:916][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Stop.BTT_Stop_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.PackageMetaData'
+[2020.12.07-15.19.51:916][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Stop.SKEL_BTT_Stop_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.PackageMetaData'
+[2020.12.07-15.19.51:916][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Stop.SKEL_BTT_Stop_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Stop.PackageMetaData'
+[2020.12.07-15.19.51:923][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Start.BTT_Start_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.PackageMetaData'
+[2020.12.07-15.19.51:924][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Start.BTT_Start_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.PackageMetaData'
+[2020.12.07-15.19.51:924][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Start.SKEL_BTT_Start_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.PackageMetaData'
+[2020.12.07-15.19.51:924][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Start.SKEL_BTT_Start_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Start.PackageMetaData'
+[2020.12.07-15.19.51:930][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Speak.BTT_Speak_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.PackageMetaData'
+[2020.12.07-15.19.51:930][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Speak.BTT_Speak_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.PackageMetaData'
+[2020.12.07-15.19.51:930][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Speak.SKEL_BTT_Speak_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.PackageMetaData'
+[2020.12.07-15.19.51:930][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Speak.SKEL_BTT_Speak_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Speak.PackageMetaData'
+[2020.12.07-15.19.51:937][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Spawn.BTT_Spawn_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.19.51:937][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Spawn.BTT_Spawn_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.19.51:937][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Spawn.SKEL_BTT_Spawn_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.19.51:937][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_Spawn.SKEL_BTT_Spawn_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_Spawn.PackageMetaData'
+[2020.12.07-15.19.51:943][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.19.51:944][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.19.51:944][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.19.51:944][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.SKEL_BTT_FindRandomPatrol_C:ReceiveExecuteAI' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BTT_FindRandomPatrol.PackageMetaData'
+[2020.12.07-15.19.51:949][393]LogMetaData: Removing '/Game/Blueprints/Neighbour/IA/BT_Neighbour.BT_Neighbour:Behavior Tree.BehaviorTreeGraphNode_Root_0' ref from Metadata '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour.PackageMetaData'
+[2020.12.07-15.19.52:001][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BTT_Stop" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Stop.uasset" SILENT=true
+[2020.12.07-15.19.52:018][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_StopCEF1C5354367B27BEEE170A3D00B7080.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Stop.uasset'
+[2020.12.07-15.19.52:021][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BTT_Start" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Start.uasset" SILENT=true
+[2020.12.07-15.19.52:039][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_Start562581B5417AE355B4827F8AD232A1F2.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Start.uasset'
+[2020.12.07-15.19.52:042][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BTT_Speak" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Speak.uasset" SILENT=true
+[2020.12.07-15.19.52:062][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_SpeakE9CA44D042BB2FCA20F6ED88090B1602.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Speak.uasset'
+[2020.12.07-15.19.52:065][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BTT_Spawn" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Spawn.uasset" SILENT=true
+[2020.12.07-15.19.52:082][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_Spawn1741BF6F4E269D02C4632AA4111DF658.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_Spawn.uasset'
+[2020.12.07-15.19.52:106][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BTT_FindRandomPatrol141DAD6D4481044323B32F84132103E9.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.uasset'
+[2020.12.07-15.19.52:108][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BT_Neighbour" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BT_Neighbour.uasset" SILENT=true
+[2020.12.07-15.19.52:124][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BT_Neighbour7C9DEB8B4FF24CD852455D86674F74BF.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BT_Neighbour.uasset'
+[2020.12.07-15.19.52:127][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Neighbour/IA/BB_Neighbour" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BB_Neighbour.uasset" SILENT=true
+[2020.12.07-15.19.52:137][393]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BB_Neighbour57BBD2A34C5CD0C5FC2A60B8B49C187C.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/IA/BB_Neighbour.uasset'
+[2020.12.07-15.19.52:563][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.12.07-15.19.52:580][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.07-15.19.52:594][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.12.07-15.19.52:612][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.07-15.19.52:626][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.07-15.19.52:642][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.12.07-15.19.52:662][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.12.07-15.19.52:698][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.12.07-15.19.52:722][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.07-15.19.52:850][393]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/BP_Key_Neighbour_Controller.BP_Key_Neighbour_Controller
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.Default__BP_Neighbour_Character_C
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character_C
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/IA/BTT_Stop.BTT_Stop
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/IA/BTT_Start.BTT_Start
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/IA/BTT_Speak.BTT_Speak
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/IA/BTT_Spawn.BTT_Spawn
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/IA/BTT_FindRandomPatrol.BTT_FindRandomPatrol
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating BehaviorTree /Game/Blueprints/Neighbour/IA/BT_Neighbour.BT_Neighbour
+[2020.12.07-15.19.52:850][393]LogContentValidation: Display: Validating BlackboardData /Game/Blueprints/Neighbour/IA/BB_Neighbour.BB_Neighbour
+[2020.12.07-15.20.02:394][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.12.07-15.20.06:234][ 29]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.20.11:614][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.12.07-15.20.16:840][344]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.20.17:039][344]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Parent_Neighbour_Character.BP_Parent_Neighbour_Character_C
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Parent_Neighbour_Character.BP_Parent_Neighbour_Character
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.Default__BP_Neighbour_Character_C
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character_C
+[2020.12.07-15.20.18:319][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.12.07-15.20.18:336][344]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.12.07-15.20.18:349][344]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.12.07-15.20.20:931][445]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character
+[2020.12.07-15.20.21:379][445]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 125 classes and 0 folders.
+[2020.12.07-15.20.22:745][445]LogSlate: Took 0.001174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.07-15.20.25:027][544]LogSlate: Window 'BP_Neighbour_Character' being destroyed
+[2020.12.07-15.20.25:033][544]LogSlate: Window 'BP_Neighbour_Character' being destroyed
+[2020.12.07-15.20.25:082][544]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.20.25:082][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.20.30:315][847]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Key_Neighbour_Controller.uasset' failed to load '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour': Can't find file.
+[2020.12.07-15.20.30:315][847]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Key_Neighbour_Controller.uasset' failed to load '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour': Can't find file.
+[2020.12.07-15.20.30:316][847]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Key_Neighbour_Controller.uasset' failed to load '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour': Can't find file.
+[2020.12.07-15.20.30:316][847]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Key_Neighbour_Controller.uasset' failed to load '/Game/Blueprints/Neighbour/Blueprints/IA/BT_Neighbour': Can't find file.
+[2020.12.07-15.20.30:318][847]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character_C'
+[2020.12.07-15.20.36:118][182]LogSlate: Took 0.001240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.07-15.20.41:749][552]LogSlate: Window 'Message Log' being destroyed
+[2020.12.07-15.20.41:763][552]LogSlate: Window 'Message Log' being destroyed
+[2020.12.07-15.20.48:244][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:245][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:245][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:246][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:246][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:247][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:247][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:248][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:248][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:249][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:249][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:249][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:269][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:269][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:270][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:270][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:270][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:271][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:271][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:271][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:273][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:273][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:274][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:274][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:274][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:275][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:275][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:275][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:297][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:297][983]LoadErrors: Failed to load /Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a.WM_GlassClean_a Referenced by BasementDoorStatic_a
+[2020.12.07-15.20.48:297][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:298][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:298][983]LoadErrors: Failed to load /Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat.WM_LaqueredWhiteWood_a_Mat Referenced by BasementDoorStatic_a
+[2020.12.07-15.20.48:298][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:298][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:298][983]LoadErrors: Failed to load /Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat.BasementDoorKnob_a_Mat Referenced by BasementDoorStatic_a
+[2020.12.07-15.20.48:298][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:299][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:299][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Glass/WM_GlassClean_a': Can't find file.
+[2020.12.07-15.20.48:299][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:300][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Common/Materials/Wood/WM_LaqueredWhiteWood_a_Mat': Can't find file.
+[2020.12.07-15.20.48:300][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:300][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_FirstFloor/Shared/Characters/Door/BasementDoorStatic_a.uasset' failed to load '/Game/EF_FirstFloor/Shared/Characters/Door/BasementDoorKnob_a_Mat': Can't find file.
+[2020.12.07-15.20.48:306][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:306][983]LoadErrors: Failed to load /Game/EF_Edie/Materials/Birdcage_b_Mat.Birdcage_b_Mat Referenced by birdcage_c
+[2020.12.07-15.20.48:307][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:307][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:307][983]LoadErrors: Failed to load /Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat.MetalGrate_a_Mat Referenced by birdcage_c
+[2020.12.07-15.20.48:307][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:307][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:308][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Materials/Birdcage_b_Mat': Can't find file.
+[2020.12.07-15.20.48:308][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:308][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/birdcage_c.uasset' failed to load '/Game/EF_Edie/Common/Materials/Metal/MetalGrate_a_Mat': Can't find file.
+[2020.12.07-15.20.48:309][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:309][983]LoadErrors: Failed to load /Game/EF_Edie/Materials/Armchair_a_Mat.Armchair_a_Mat Referenced by Armchair_b
+[2020.12.07-15.20.48:309][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:309][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:309][983]LoadErrors: Failed to load /Game/EF_Edie/Materials/Armchair_b_Mat.Armchair_b_Mat Referenced by Armchair_b
+[2020.12.07-15.20.48:309][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:310][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:310][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_a_Mat': Can't find file.
+[2020.12.07-15.20.48:310][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:310][983]LogLinker: Warning: While loading '../../../../../../Users/raque/Desktop/DEV/practica3/Content/ContenidoDescargado/EF_Edie/Meshes/Armchair_b.uasset' failed to load '/Game/EF_Edie/Materials/Armchair_b_Mat': Can't find file.
+[2020.12.07-15.20.48:380][983]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Second_floor.Second_floor
+[2020.12.07-15.20.48:415][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.12.07-15.20.49:893][983]LogSlate: Window 'Save Content' being destroyed
+[2020.12.07-15.20.49:944][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Key" FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/BP_Key.uasset" SILENT=true
+[2020.12.07-15.20.50:012][983]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Key39F8C57F479F45150C7EADA0B690B977.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/BP_Key.uasset'
+[2020.12.07-15.20.50:045][983]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Neighbour_Character8412E6504A505BB91F98639B054F4B34.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.uasset'
+[2020.12.07-15.20.50:176][983]LogSavePackage: Moving '../../../../../../Users/raque/Desktop/DEV/practica3/Saved/BP_Neighbour_CharacterE94C3F044CA7D387F45BDE84F4A9D26F.tmp' to '../../../../../../Users/raque/Desktop/DEV/practica3/Content/Blueprints/Neighbour/BP_Neighbour_Character.uasset'
+[2020.12.07-15.20.50:179][983]Cmd: MAP LOAD FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/Maps/Second_floor.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-15.20.50:179][983]LightingResults: New page: Lighting Build
+[2020.12.07-15.20.50:179][983]LoadErrors: New page: Loading map: Second_floor.umap
+[2020.12.07-15.20.50:202][983]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.20.50:202][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.20.50:202][983]MapCheck: New page: Map Check
+[2020.12.07-15.20.50:202][983]LightingResults: New page: Lighting Build
+[2020.12.07-15.20.50:229][983]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F904B0FE00), frame # 32983
+[2020.12.07-15.20.50:229][983]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F904B1BB00), frame # 32983
+[2020.12.07-15.20.50:233][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.12.07-15.20.50:409][983]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-15.20.50:409][983]LogAIModule: Creating AISystem for world Second_floor
+[2020.12.07-15.20.50:410][983]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F96E8AF200), frame # 32983
+[2020.12.07-15.20.50:410][983]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9AED58A40), frame # 32983
+[2020.12.07-15.20.50:413][983]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2020.12.07-15.20.50:447][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.12.07-15.20.50:494][983]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-15.20.50:495][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,199ms to complete.
+[2020.12.07-15.20.50:495][983]LogFileHelpers: Loading map 'Second_floor' took 0.316
+[2020.12.07-15.20.50:572][983]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-15.20.50:572][983]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Key.BP_Key
+[2020.12.07-15.20.50:572][983]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.Default__BP_Neighbour_Character_C
+[2020.12.07-15.20.50:578][983]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character_C
+[2020.12.07-15.20.50:578][983]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Neighbour/BP_Neighbour_Character.BP_Neighbour_Character
+[2020.12.07-15.20.53:671][124]LogRenderer: Reallocating scene render targets to support 1488x476 Format 10 NumSamples 1 (Frame:79).
+[2020.12.07-15.21.00:526][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.07-15.21.02:741][461]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.07-15.21.03:041][461]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.Default__BP_Neighbour_Character_C
+	Asset Name: /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.BP_Neighbour_Character_C
+[2020.12.07-15.21.03:491][461]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.12.07-15.21.04:420][461]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.929 s
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: === Handled ensure: ===
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: 
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: Cannot remove redirection from /Game/Blueprints/Neighbour/Blueprints/BP_Neighbour_Character.Default__BP_Neighbour_Character_C, it was not registered
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: Stack: 
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: [Callstack] 0x00007ffc23b1bfc8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: [Callstack] 0x00007ffc237306b1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.12.07-15.21.04:420][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2136d25e UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc137dbd0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc137e6949 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc12f99e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc1323d43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc13236dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2166207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2167b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc214c2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc215469cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2152f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc21522392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc23517f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc23505c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2351a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc235017d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc540de858 USER32.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc540de299 USER32.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2351b9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc21550d5d UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc214ebdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc132cf00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc137daf1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc0a5ed838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc0a5f9f94 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc0a5f5722 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc0a657f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc0a5f6847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2166207e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2167b27e UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc214c2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc215469cf UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2152f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc21522392 UE4Editor-Slate.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc23517f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc23505c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2351a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc235017d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc540de858 USER32.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc540de299 USER32.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc2351bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ff63cf468c4 UE4Editor.exe!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ff63cf5ba7c UE4Editor.exe!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ff63cf5bb5a UE4Editor.exe!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ff63cf6e31d UE4Editor.exe!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ff63cf7145a UE4Editor.exe!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc54917034 KERNEL32.DLL!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: [Callstack] 0x00007ffc55c1cec1 ntdll.dll!UnknownFunction []
+[2020.12.07-15.21.04:421][461]LogOutputDevice: Error: 
+[2020.12.07-15.21.04:428][461]LogStats:                SubmitErrorReport -  0.000 s
+[2020.12.07-15.21.06:633][461]LogStats:                    SendNewReport -  2.205 s
+[2020.12.07-15.21.06:633][461]LogStats:             FDebug::EnsureFailed -  3.141 s
+[2020.12.07-15.21.06:971][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.12.07-15.21.07:007][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.12.07-15.21.07:034][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.12.07-15.22.27:454][726]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2020.12.07-15.25.48:276][647]LogRenderer: Reallocating scene render targets to support 1488x520 Format 10 NumSamples 1 (Frame:2748).
+[2020.12.07-15.25.48:429][648]LogRenderer: Reallocating scene render targets to support 1488x540 Format 10 NumSamples 1 (Frame:2750).
+[2020.12.07-15.25.48:577][649]LogRenderer: Reallocating scene render targets to support 1488x556 Format 10 NumSamples 1 (Frame:2752).
+[2020.12.07-15.45.00:687][648]LogDirectoryWatcher: A directory notification failed for 'C:/Users/raque/Desktop/DEV/practica3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.07-15.45.01:311][650]LogDirectoryWatcher: A directory notification failed for 'C:/Users/raque/Desktop/DEV/practica3/Content/Developers/raque/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.07-15.45.02:011][652]LogDirectoryWatcher: A directory notification failed for 'C:/Users/raque/Desktop/DEV/practica3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: CatTreeKnot_r (BC4, 512X512)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: douglasFirBark_b_c (AutoDXT, 256X1024)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: douglasFirBark_a_n (BC5, 256X1024)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: douglasFirBark_a_r (BC4, 256X1024)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: Binoculars_a_m (BC4, 256X256)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: Binoculars_a_n (BC5, 512X512)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: Binoculars_a_r (BC4, 512X512)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: DriftwoodDark_a_c (AutoDXT, 1024X256)
+[2020.12.07-15.45.57:190][948]LogTexture: Display: Building textures: White (BC4, 8X8)
+[2020.12.07-15.45.57:208][948]LogTexture: Display: Building textures: Black (BC4, 8X8)
+[2020.12.07-15.45.57:216][948]LogTexture: Display: Building textures: DriftwoodDark_a_n (BC5, 1024X256)
+[2020.12.07-15.45.57:216][948]LogTexture: Display: Building textures: Test_c (AutoDXT, 256X256)
+[2020.12.07-15.45.57:533][948]LogTexture: Display: Building textures: DriftwoodDark_a_r (BC4, 1024X256)
+[2020.12.07-15.45.57:534][948]LogTexture: Display: Building textures: CatTreeKnot_n (BC5, 512X512)
+[2020.12.07-15.45.57:545][948]LogTexture: Display: Building textures: Grey50 (BC4, 8X8)
+[2020.12.07-15.45.57:546][948]LogTexture: Display: Building textures: Neutral_N (BC5, 8X8)
+[2020.12.07-15.45.57:566][948]LogTexture: Display: Building textures: DetailNormal_a (BC5, 256X256)
+[2020.12.07-15.45.57:827][948]LogTexture: Display: Building textures: CatTreeKnot_c (AutoDXT, 512X512)
+[2020.12.07-15.45.57:827][948]LogTexture: Display: Building textures: DeveloperTray_a_n (BC5, 256X256)
+[2020.12.07-15.45.57:827][948]LogTexture: Display: Building textures: DeveloperTray_a_r (BC4, 256X256)
+[2020.12.07-15.45.57:827][948]LogTexture: Display: Building textures: DixieCup_a_n (BC5, 256X256)
+[2020.12.07-15.45.57:827][948]LogTexture: Display: Building textures: DixieCup_a_r (BC4, 256X256)
+[2020.12.07-15.45.57:851][948]LogTexture: Display: Building textures: driftwood_a_c (AutoDXT, 1024X512)
+[2020.12.07-15.45.57:851][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.45.58:981][948]LogStaticMesh: Building static mesh Driftwood_d...
+[2020.12.07-15.45.59:064][948]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 131
+[2020.12.07-15.45.59:065][948]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 121
+[2020.12.07-15.45.59:065][948]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 111
+[2020.12.07-15.45.59:065][948]LogTexture: Display: Building textures: driftwood_a_n (BC5, 1024X512)
+[2020.12.07-15.45.59:065][948]LogStaticMesh: Built static mesh [0.08s] /Game/EF_Sam/Meshes/Driftwood_d.Driftwood_d
+[2020.12.07-15.45.59:107][948]LogStaticMesh: Building static mesh Driftwood_c...
+[2020.12.07-15.45.59:281][948]LogStaticMesh: Built static mesh [0.18s] /Game/EF_Sam/Meshes/Driftwood_c.Driftwood_c
+[2020.12.07-15.45.59:496][948]LogTexture: Display: Building textures: Compass_a_r (BC4, 256X256)
+[2020.12.07-15.45.59:496][948]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.07-15.45.59:496][948]LogStaticMesh: Building static mesh DriftwoodDark_a...
+[2020.12.07-15.45.59:709][948]LogStaticMesh: Built static mesh [0.41s] /Game/EF_Sam/Meshes/DriftwoodDark_a.DriftwoodDark_a
+[2020.12.07-15.45.59:729][948]LogStaticMesh: Building static mesh DriftwoodDark_b...
+[2020.12.07-15.45.59:757][948]LogStaticMesh: Built static mesh [0.03s] /Game/EF_Sam/Meshes/DriftwoodDark_b.DriftwoodDark_b
+[2020.12.07-15.46.00:020][948]LogStaticMesh: Building static mesh FallenLog_a...
+[2020.12.07-15.46.00:061][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/FallenLog_a.FallenLog_a
+[2020.12.07-15.46.00:328][948]LogMaterial: Display: Missing cached shader map for material Master_WorldMaterial_Mat, compiling. 
+[2020.12.07-15.46.00:916][948]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2020.12.07-15.46.00:916][948]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.07-15.46.00:916][948]LogTexture: Display: Building textures: Plastic_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: BinocularCase_a_r (BC4, 512X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: BinocularCase_a_n (BC5, 512X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: BinocularCase_a_c (AutoDXT, 512X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: BinocularCase_a_m (BC4, 256X128)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CanBeans_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CanBeans_a_M (BC4, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: Compass_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CompressionBag_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CompressionBag_a_n (BC5, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: DixieCup_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CanBeans_a_n (BC5, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: CanBeans_a_r (BC4, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: Cooler_a_r (BC4, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: DeveloperTray_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: Cooler_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: Cooler_a_n (BC5, 512X512)
+[2020.12.07-15.46.04:315][948]LogTexture: Display: Building textures: Cooler_a_m (BC4, 512X512)
+[2020.12.07-15.46.04:356][948]LogTexture: Display: Building textures: Plastic_a_n (BC5, 512X512)
+[2020.12.07-15.46.04:456][948]LogTexture: Display: Building textures: Binoculars_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.04:456][948]LogTexture: Display: Building textures: Plastic_a_r (BC4, 256X256)
+[2020.12.07-15.46.04:482][948]LogMaterial: Display: Missing cached shader map for material Master_WorldMaterial_Mat, compiling. 
+[2020.12.07-15.46.04:549][948]LogStaticMesh: Building static mesh DixieCup_a...
+[2020.12.07-15.46.04:567][948]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/DixieCup_a.DixieCup_a
+[2020.12.07-15.46.04:573][948]LogStaticMesh: Building static mesh Driftwood_a...
+[2020.12.07-15.46.04:651][948]LogStaticMesh: Built static mesh [0.08s] /Game/EF_Sam/Meshes/Driftwood_a.Driftwood_a
+[2020.12.07-15.46.04:661][948]LogStaticMesh: Building static mesh Driftwood_b...
+[2020.12.07-15.46.04:697][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/Driftwood_b.Driftwood_b
+[2020.12.07-15.46.04:722][948]LogTexture: Display: Building textures: ArmyHelmet_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: ArmyHelmet_a_r (BC4, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: ArmyHelmet_a_n (BC5, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: Campfire_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: Campfire_a_r (BC4, 1024X1024)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: MetalBasic_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: MetalBasic_a_n (BC5, 512X512)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: MetalBasic_a_r (BC4, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: FootballTrophy_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: FootballTrophy_a_m (BC4, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: FootballTrophy_a_n (BC5, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: FootballTrophy_a_r (BC4, 256X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: BarbecueGrill_a_n (BC5, 512X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: BarbecueGrill_a_r (BC4, 512X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: BarbecueGrill_a_m (BC4, 512X256)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: Campfire_a_m (BC4, 1024X1024)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: Campfire_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.06:907][948]LogTexture: Display: Building textures: BarbecueGrill_a_c (AutoDXT, 512X256)
+[2020.12.07-15.46.06:914][948]LogStaticMesh: Building static mesh ArmyHelmet_a...
+[2020.12.07-15.46.06:951][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/ArmyHelmet_a.ArmyHelmet_a
+[2020.12.07-15.46.06:957][948]LogStaticMesh: Building static mesh CompressionBag_a...
+[2020.12.07-15.46.07:065][948]LogTexture: Display: Building textures: CarrotBag_a_n (BC5, 512X512)
+[2020.12.07-15.46.07:065][948]LogStaticMesh: Built static mesh [0.11s] /Game/EF_Sam/Meshes/CompressionBag_a.CompressionBag_a
+[2020.12.07-15.46.07:573][948]LogTexture: Display: Building textures: CarrotBag_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.07:573][948]LogTexture: Display: Building textures: CarrotBag_a_r (BC4, 256X256)
+[2020.12.07-15.46.07:573][948]LogStaticMesh: Building static mesh CarrotBag_a...
+[2020.12.07-15.46.07:580][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/CarrotBag_a.CarrotBag_a
+[2020.12.07-15.46.07:588][948]LogStaticMesh: Building static mesh BinocularCase_b...
+[2020.12.07-15.46.08:174][948]LogTexture: Display: Building textures: CliffRock_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.08:174][948]LogStaticMesh: Built static mesh [0.59s] /Game/EF_Sam/Meshes/BinocularCase_b.BinocularCase_b
+[2020.12.07-15.46.08:226][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.46.08:429][948]LogStaticMesh: Building static mesh BinocularCase_a...
+[2020.12.07-15.46.08:453][948]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/BinocularCase_a.BinocularCase_a
+[2020.12.07-15.46.08:466][948]LogTexture: Display: Building textures: Compass_a_n (BC5, 256X256)
+[2020.12.07-15.46.08:517][948]LogStaticMesh: Building static mesh FallenLog_b...
+[2020.12.07-15.46.08:539][948]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/FallenLog_b.FallenLog_b
+[2020.12.07-15.46.08:545][948]LogStaticMesh: Building static mesh Cooler_a...
+[2020.12.07-15.46.08:639][948]LogStaticMesh: Built static mesh [0.09s] /Game/EF_Sam/Meshes/Cooler_a.Cooler_a
+[2020.12.07-15.46.08:654][948]LogStaticMesh: Building static mesh CarFreshenerTree_a...
+[2020.12.07-15.46.08:662][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/CarFreshenerTree_a.CarFreshenerTree_a
+[2020.12.07-15.46.08:673][948]LogMaterial: Display: Missing cached shader map for material MASTER_BaseColor_Mat, compiling. 
+[2020.12.07-15.46.08:927][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.46.09:118][948]LogStaticMesh: Building static mesh DeveloperTray_a...
+[2020.12.07-15.46.09:129][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/DeveloperTray_a.DeveloperTray_a
+[2020.12.07-15.46.09:136][948]LogStaticMesh: Building static mesh BarbecueGrill_a...
+[2020.12.07-15.46.09:370][948]LogStaticMesh: Built static mesh [0.23s] /Game/EF_Sam/Meshes/BarbecueGrill_a.BarbecueGrill_a
+[2020.12.07-15.46.09:381][948]LogStaticMesh: Building static mesh CanBeans_a...
+[2020.12.07-15.46.09:393][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/CanBeans_a.CanBeans_a
+[2020.12.07-15.46.09:398][948]LogTexture: Display: Building textures: Test_alpha (BC4, 256X256)
+[2020.12.07-15.46.09:508][948]LogTexture: Display: Building textures: dot_alpha (BC4, 2048X2048)
+[2020.12.07-15.46.10:490][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Masked_Mat, compiling. 
+[2020.12.07-15.46.10:962][948]LogTexture: Display: Building textures: CliffRock_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.10:962][948]LogTexture: Display: Building textures: BarbecueGrill_a_o (BC4, 512X256)
+[2020.12.07-15.46.11:018][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Masked_Mat, compiling. 
+[2020.12.07-15.46.11:474][948]LogTexture: Display: Building textures: CliffRock_a_r (BC4, 512X512)
+[2020.12.07-15.46.11:474][948]LogTexture: Display: Building textures: WM_Moss_a_C (AutoDXT, 1024X1024)
+[2020.12.07-15.46.11:474][948]LogStaticMesh: Building static mesh BarbecueGrill_b...
+[2020.12.07-15.46.11:559][948]LogStaticMesh: Built static mesh [0.09s] /Game/EF_Sam/Meshes/BarbecueGrill_b.BarbecueGrill_b
+[2020.12.07-15.46.11:569][948]LogStaticMesh: Building static mesh BarbecueGrill_c...
+[2020.12.07-15.46.11:573][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/BarbecueGrill_c.BarbecueGrill_c
+[2020.12.07-15.46.11:575][948]LogStaticMesh: Building static mesh Campfire_a...
+[2020.12.07-15.46.11:654][948]LogStaticMesh: Built static mesh [0.08s] /Game/EF_Sam/Meshes/Campfire_a.Campfire_a
+[2020.12.07-15.46.12:343][948]LogMaterial: Display: Missing cached shader map for material MasterVertLerp_Mat, compiling. 
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: WM_Moss_a_N (BC5, 1024X1024)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: WM_Moss_a_R (BC4, 512X512)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: WM_Woodchips_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: WM_Woodchips_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: WM_Woodchips_a_r (BC4, 512X512)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: Dirt_NoiseSmall_alpha (BC4, 256X256)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: ChipBag_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: ChipBag_a_n (BC5, 512X512)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: Test_dn (BC5, 128X128)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: Detail_Scratches_A (BC4, 256X256)
+[2020.12.07-15.46.17:797][948]LogTexture: Display: Building textures: DirtyMetal_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.17:798][948]LogMaterial: Display: Missing cached shader map for material MasterVertLerp_Mat, compiling. 
+[2020.12.07-15.46.17:829][948]LogTexture: Display: Building textures: ChipBag_a_r (BC4, 256X256)
+[2020.12.07-15.46.17:829][948]LogStaticMesh: Building static mesh Compass_a...
+[2020.12.07-15.46.17:866][948]LogTexture: Display: Building textures: ShelfWood_a_r (BC4, 512X512)
+[2020.12.07-15.46.17:866][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/Compass_a.Compass_a
+[2020.12.07-15.46.17:873][948]LogStaticMesh: Building static mesh CameraTrophy_a...
+[2020.12.07-15.46.17:972][948]LogTexture: Display: Building textures: ShelfWood_a_n (BC5, 512X512)
+[2020.12.07-15.46.17:972][948]LogStaticMesh: Built static mesh [0.10s] /Game/EF_Sam/Meshes/CameraTrophy_a.CameraTrophy_a
+[2020.12.07-15.46.17:979][948]LogTexture: Display: Building textures: ShelfWood_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.17:979][948]LogStaticMesh: Building static mesh Binoculars_a...
+[2020.12.07-15.46.18:065][948]LogStaticMesh: Built static mesh [0.09s] /Game/EF_Sam/Meshes/Binoculars_a.Binoculars_a
+[2020.12.07-15.46.18:079][948]LogStaticMesh: Building static mesh ChipBag_a...
+[2020.12.07-15.46.18:083][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/ChipBag_a.ChipBag_a
+[2020.12.07-15.46.18:097][948]LogStaticMesh: Building static mesh CliffPlungeRock_a...
+[2020.12.07-15.46.18:159][948]LogTexture: Display: Building textures: cloth_a_diffuse (AutoDXT, 1024X1024)
+[2020.12.07-15.46.18:159][948]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Sam/Meshes/CliffPlungeRock_a.CliffPlungeRock_a
+[2020.12.07-15.46.18:167][948]LogStaticMesh: Building static mesh HangingFish_a...
+[2020.12.07-15.46.18:370][948]LogStaticMesh: Built static mesh [0.20s] /Game/EF_Sam/Meshes/HangingFish_a.HangingFish_a
+[2020.12.07-15.46.18:392][948]LogStaticMesh: Building static mesh HangingPhoto_a...
+[2020.12.07-15.46.18:393][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/HangingPhoto_a.HangingPhoto_a
+[2020.12.07-15.46.18:395][948]LogStaticMesh: Building static mesh HangingSocks_a...
+[2020.12.07-15.46.18:421][948]LogStaticMesh: Built static mesh [0.03s] /Game/EF_Sam/Meshes/HangingSocks_a.HangingSocks_a
+[2020.12.07-15.46.18:426][948]LogStaticMesh: Building static mesh HangingVest...
+[2020.12.07-15.46.18:479][948]LogStaticMesh: Built static mesh [0.05s] /Game/EF_Sam/Meshes/HangingVest.HangingVest
+[2020.12.07-15.46.18:485][948]LogStaticMesh: Building static mesh HikingStick_a...
+[2020.12.07-15.46.18:506][948]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/HikingStick_a.HikingStick_a
+[2020.12.07-15.46.18:508][948]LogStaticMesh: Building static mesh HuntingSign_a...
+[2020.12.07-15.46.18:512][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/HuntingSign_a.HuntingSign_a
+[2020.12.07-15.46.18:513][948]LogStaticMesh: Building static mesh LawnChair_a...
+[2020.12.07-15.46.18:675][948]LogStaticMesh: Built static mesh [0.16s] /Game/EF_Sam/Meshes/LawnChair_a.LawnChair_a
+[2020.12.07-15.46.18:705][948]LogStaticMesh: Building static mesh Medal_a...
+[2020.12.07-15.46.18:713][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_a.Medal_a
+[2020.12.07-15.46.18:714][948]LogStaticMesh: Building static mesh Medal_b...
+[2020.12.07-15.46.18:750][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_b.Medal_b
+[2020.12.07-15.46.18:751][948]LogStaticMesh: Building static mesh Medal_c...
+[2020.12.07-15.46.18:763][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_c.Medal_c
+[2020.12.07-15.46.18:765][948]LogStaticMesh: Building static mesh Medal_d...
+[2020.12.07-15.46.18:776][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_d.Medal_d
+[2020.12.07-15.46.18:780][948]LogStaticMesh: Building static mesh Medal_e...
+[2020.12.07-15.46.18:792][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_e.Medal_e
+[2020.12.07-15.46.18:794][948]LogStaticMesh: Building static mesh Medal_f...
+[2020.12.07-15.46.18:805][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_f.Medal_f
+[2020.12.07-15.46.18:807][948]LogStaticMesh: Building static mesh Medal_g...
+[2020.12.07-15.46.18:809][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_g.Medal_g
+[2020.12.07-15.46.18:810][948]LogStaticMesh: Building static mesh Medal_h...
+[2020.12.07-15.46.18:820][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_h.Medal_h
+[2020.12.07-15.46.18:822][948]LogStaticMesh: Building static mesh Medal_i...
+[2020.12.07-15.46.18:831][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/Medal_i.Medal_i
+[2020.12.07-15.46.18:833][948]LogStaticMesh: Building static mesh MedalBox_a...
+[2020.12.07-15.46.18:883][948]LogStaticMesh: Built static mesh [0.05s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/MedalBox_a.MedalBox_a
+[2020.12.07-15.46.18:889][948]LogStaticMesh: Building static mesh MedalBox_b...
+[2020.12.07-15.46.18:897][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/MedalBox_b.MedalBox_b
+[2020.12.07-15.46.18:899][948]LogStaticMesh: Building static mesh MedalBox_c...
+[2020.12.07-15.46.18:904][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/MedalBox_c.MedalBox_c
+[2020.12.07-15.46.18:906][948]LogStaticMesh: Building static mesh MedalBox_d...
+[2020.12.07-15.46.18:911][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/MedalBox_d.MedalBox_d
+[2020.12.07-15.46.18:912][948]LogStaticMesh: Building static mesh MedalCabinet_a...
+[2020.12.07-15.46.18:923][948]LogTexture: Display: Building textures: Medal_a_r (BC4, 256X256)
+[2020.12.07-15.46.18:923][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/MedalCabinet/MedalCabinet_a.MedalCabinet_a
+[2020.12.07-15.46.18:924][948]LogStaticMesh: Building static mesh ParkSign_a...
+[2020.12.07-15.46.19:020][948]LogTexture: Display: Building textures: Medal_a_n (BC5, 512X512)
+[2020.12.07-15.46.19:020][948]LogStaticMesh: Built static mesh [0.10s] /Game/EF_Sam/Meshes/ParkSign_a.ParkSign_a
+[2020.12.07-15.46.19:034][948]LogStaticMesh: Building static mesh PhotoPaperPackage_a...
+[2020.12.07-15.46.19:035][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/PhotoPaperPackage_a.PhotoPaperPackage_a
+[2020.12.07-15.46.19:035][948]LogStaticMesh: Building static mesh PicnicBasket_a...
+[2020.12.07-15.46.19:081][948]LogTexture: Display: Building textures: Medal_a_m (BC4, 256X256)
+[2020.12.07-15.46.19:081][948]LogStaticMesh: Built static mesh [0.05s] /Game/EF_Sam/Meshes/PicnicBasket_a.PicnicBasket_a
+[2020.12.07-15.46.19:088][948]LogStaticMesh: Building static mesh PicnicBlanket_a...
+[2020.12.07-15.46.19:093][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/PicnicBlanket_a.PicnicBlanket_a
+[2020.12.07-15.46.19:097][948]LogStaticMesh: Building static mesh PortableGrill_a...
+[2020.12.07-15.46.19:654][948]LogTexture: Display: Building textures: Medal_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.19:654][948]LogTexture: Display: Building textures: WoodRough_c_r (BC4, 512X512)
+[2020.12.07-15.46.19:654][948]LogTexture: Display: Building textures: WoodRough_c_n (BC5, 512X512)
+[2020.12.07-15.46.19:654][948]LogTexture: Display: Building textures: WoodRough_c_c (AutoDXT, 512X512)
+[2020.12.07-15.46.19:654][948]LogStaticMesh: Built static mesh [0.56s] /Game/EF_Sam/Meshes/PortableGrill_a.PortableGrill_a
+[2020.12.07-15.46.19:691][948]LogStaticMesh: Building static mesh PropaneTank_a...
+[2020.12.07-15.46.19:759][948]LogStaticMesh: Built static mesh [0.07s] /Game/EF_Sam/Meshes/PropaneTank_a.PropaneTank_a
+[2020.12.07-15.46.19:798][948]LogStaticMesh: Building static mesh Rifle_a...
+[2020.12.07-15.46.20:724][948]LogStaticMesh: Built static mesh [0.93s] /Game/EF_Sam/Meshes/Rifle_a.Rifle_a
+[2020.12.07-15.46.20:752][948]LogStaticMesh: Building static mesh SamBearskinRug...
+[2020.12.07-15.46.21:482][948]LogTexture: Display: Building textures: WoodRough_d_c (AutoDXT, 512X512)
+[2020.12.07-15.46.21:483][948]LogStaticMesh: Built static mesh [0.73s] /Game/EF_Sam/Meshes/SamBearskinRug.SamBearskinRug
+[2020.12.07-15.46.21:576][948]LogTexture: Display: Building textures: Tent_a_r (BC4, 1024X1024)
+[2020.12.07-15.46.21:576][948]LogStaticMesh: Building static mesh SamRoomBed_a...
+[2020.12.07-15.46.21:692][948]LogStaticMesh: Built static mesh [0.12s] /Game/EF_Sam/Meshes/SamRoomBed_a.SamRoomBed_a
+[2020.12.07-15.46.21:706][948]LogStaticMesh: Building static mesh SamRoomDeerHead_a...
+[2020.12.07-15.46.22:112][948]LogTexture: Display: Building textures: WoodRough_d_r (BC4, 512X512)
+[2020.12.07-15.46.22:112][948]LogTexture: Display: Building textures: WoodRough_d_n (BC5, 512X512)
+[2020.12.07-15.46.22:112][948]LogStaticMesh: Built static mesh [0.41s] /Game/EF_Sam/Meshes/SamRoomDeerHead_a.SamRoomDeerHead_a
+[2020.12.07-15.46.22:185][948]LogTexture: Display: Building textures: Tent_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.22:186][948]LogStaticMesh: Building static mesh SamRoomDoormat_a...
+[2020.12.07-15.46.22:187][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomDoormat_a.SamRoomDoormat_a
+[2020.12.07-15.46.22:188][948]LogStaticMesh: Building static mesh SamRoomFan_a...
+[2020.12.07-15.46.22:617][948]LogTexture: Display: Building textures: Tent_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.22:617][948]LogTexture: Display: Building textures: TaxiSquirrel_r (BC4, 512X512)
+[2020.12.07-15.46.22:617][948]LogStaticMesh: Built static mesh [0.43s] /Game/EF_Sam/Meshes/SamRoomFan_a.SamRoomFan_a
+[2020.12.07-15.46.22:631][948]LogStaticMesh: Building static mesh SamRoomFlag_a...
+[2020.12.07-15.46.22:892][948]LogTexture: Display: Building textures: TaxiSquirrel_o (BC4, 512X512)
+[2020.12.07-15.46.22:892][948]LogTexture: Display: Building textures: TaxiGoose_r (BC4, 512X512)
+[2020.12.07-15.46.22:892][948]LogTexture: Display: Building textures: TaxiGoose_n (BC5, 512X512)
+[2020.12.07-15.46.22:892][948]LogStaticMesh: Built static mesh [0.26s] /Game/EF_Sam/Meshes/SamRoomFlag_a.SamRoomFlag_a
+[2020.12.07-15.46.22:921][948]LogStaticMesh: Building static mesh SamRoomFlag_b...
+[2020.12.07-15.46.23:031][948]LogTexture: Display: Building textures: TaxiGoose_c (AutoDXT, 512X512)
+[2020.12.07-15.46.23:032][948]LogStaticMesh: Built static mesh [0.11s] /Game/EF_Sam/Meshes/SamRoomFlag_b.SamRoomFlag_b
+[2020.12.07-15.46.23:034][948]LogStaticMesh: Building static mesh SamRoomJewelry_a...
+[2020.12.07-15.46.23:194][948]LogStaticMesh: Built static mesh [0.16s] /Game/EF_Sam/Meshes/SamRoomJewelry_a.SamRoomJewelry_a
+[2020.12.07-15.46.23:214][948]LogStaticMesh: Building static mesh SamRoomLamp_a...
+[2020.12.07-15.46.23:306][948]LogStaticMesh: Built static mesh [0.09s] /Game/EF_Sam/Meshes/SamRoomLamp_a.SamRoomLamp_a
+[2020.12.07-15.46.23:315][948]LogStaticMesh: Building static mesh SamRoomTarget_a...
+[2020.12.07-15.46.23:317][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomTarget_a.SamRoomTarget_a
+[2020.12.07-15.46.23:318][948]LogStaticMesh: Building static mesh Snackpack_a...
+[2020.12.07-15.46.23:320][948]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/Snackpack_a.Snackpack_a
+[2020.12.07-15.46.23:320][948]LogStaticMesh: Building static mesh TaxiCatPosed_Mesh...
+[2020.12.07-15.46.37:208][948]LogTexture: Display: Building textures: TaxiSquirrel_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: TaxiSquirrel_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: TaxiCat_n (BC5, 1024X1024)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: TaxiCat_r (BC4, 1024X1024)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: TaxiCat_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: WM_Dirt_a_r (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: WM_Dirt_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: WM_Dirt_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: Snackpack_a_r (BC4, 256X256)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: Snackpack_a_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: Snackpack_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomTarget_a_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomTarget_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomLamp_a_r (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomLamp_a_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomLamp_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomJewelry_a_r (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomJewelry_a_o (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomJewelry_a_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomJewelry_a_m (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomJewelry_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: PictureFrameWood_a_r (BC4, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: PictureFrameWood_a_n (BC5, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: PictureFrameWood_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomFlag_a_n (BC5, 512X256)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomFlag_a_c (AutoDXT, 512X256)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomFan_a_r (BC4, 512X256)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomFan_a_n (BC5, 512X256)
+[2020.12.07-15.46.37:209][948]LogTexture: Display: Building textures: SamRoomFan_a_m (BC4, 512X256)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: SamRoomFan_a_c (AutoDXT, 512X256)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: Camo_a_C (AutoDXT, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: DeerStag_r (BC4, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: MiltonDoormat_a_n (BC5, 512X256)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: DeerStag_n (BC5, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: DeerStag_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: ShelfWood_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: HospitalBed_r (BC4, 512X512)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: HospitalBed_n (BC5, 1024X1024)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: HospitalBed_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: SamRoomBed_a_r (BC4, 256X256)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: SamRoomBed_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.37:210][948]LogTexture: Display: Building textures: SamRoomBed_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.37:210][948]LogStaticMesh: Built static mesh [13.89s] /Game/EF_Sam/Meshes/TaxiCatPosed_Mesh.TaxiCatPosed_Mesh
+[2020.12.07-15.46.37:213][948]LogStaticMesh: Building static mesh TaxiGoose_Mesh...
+[2020.12.07-15.46.37:584][948]LogStaticMesh: Built static mesh [0.37s] /Game/EF_Sam/Meshes/TaxiGoose_Mesh.TaxiGoose_Mesh
+[2020.12.07-15.46.37:633][948]LogStaticMesh: Building static mesh TaxiSquirrelPosed...
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: Scope_r (BC4, 512X512)
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: SamBearskinRug_r (BC4, 512X1024)
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: SamBearskinRug_n (BC5, 512X1024)
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: SamBearskinRug_c (AutoDXT, 512X1024)
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: Scope_n (BC5, 512X512)
+[2020.12.07-15.46.40:122][948]LogTexture: Display: Building textures: Scope_c (AutoDXT, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: Rifle_r (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: Rifle_n (BC5, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: Rifle_m (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: Rifle_c (AutoDXT, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PropaneTank_a_r (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PropaneTank_a_n (BC5, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PropaneTank_a_m (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PropaneTank_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PortableGrill_a_r (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PortableGrill_a_n (BC5, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: PortableGrill_a_m (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogTexture: Display: Building textures: Basket_a_r (BC4, 512X512)
+[2020.12.07-15.46.40:123][948]LogStaticMesh: Built static mesh [2.49s] /Game/EF_Sam/Meshes/TaxiSquirrelPosed.TaxiSquirrelPosed
+[2020.12.07-15.46.40:128][948]LogStaticMesh: Building static mesh Tent_a...
+[2020.12.07-15.46.40:235][948]LogTexture: Display: Building textures: PortableGrill_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.40:235][948]LogStaticMesh: Built static mesh [0.11s] /Game/EF_Sam/Meshes/Tent_a.Tent_a
+[2020.12.07-15.46.40:253][948]LogTexture: Display: Building textures: PicnicBlanket_a_BC (AutoDXT, 512X512)
+[2020.12.07-15.46.40:253][948]LogStaticMesh: Building static mesh TrailSign_a...
+[2020.12.07-15.46.40:289][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/TrailSign_a.TrailSign_a
+[2020.12.07-15.46.40:293][948]LogStaticMesh: Building static mesh Tripod...
+[2020.12.07-15.46.40:299][948]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/Tripod.Tripod
+[2020.12.07-15.46.40:300][948]LogStaticMesh: Building static mesh UmbrellaOpen_a...
+[2020.12.07-15.46.40:341][948]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/UmbrellaOpen_a.UmbrellaOpen_a
+[2020.12.07-15.46.40:352][948]LogStaticMesh: Building static mesh VisitorHut_a...
+[2020.12.07-15.46.40:409][948]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Sam/Meshes/VisitorHut_a.VisitorHut_a
+[2020.12.07-15.46.40:417][948]LogStaticMesh: Building static mesh WritingDesk_a...
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: Basket_a_o (BC4, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: basket_a_n (BC5, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: basket_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: PhotoPaperPackage_a_n (BC5, 256X256)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: PhotoPaperPackage_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: ParkSign_b_r (BC4, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: ParkSign_b_n (BC5, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: ParkSign_b_c (AutoDXT, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: ParkSign_a_r (BC4, 512X512)
+[2020.12.07-15.46.42:341][948]LogTexture: Display: Building textures: ParkSign_a_n (BC5, 1024X1024)
+[2020.12.07-15.46.42:341][948]LogStaticMesh: Built static mesh [1.92s] /Game/EF_Sam/Shared/House/Environments/TheresaRoom/WritingDesk/WritingDesk_a.WritingDesk_a
+[2020.12.07-15.46.42:412][948]LogMaterial: Display: Missing cached shader map for material Master_Glass_Mat, compiling. 
+[2020.12.07-15.46.42:828][948]LogTexture: Display: Building textures: ParkSign_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.42:828][948]LogTexture: Display: Building textures: LawnChairStraps_a_r (BC4, 256X256)
+[2020.12.07-15.46.42:828][948]LogTexture: Display: Building textures: LawnChairStraps_a_n (BC5, 256X256)
+[2020.12.07-15.46.42:828][948]LogTexture: Display: Building textures: LawnChairStraps_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.42:828][948]LogMaterial: Display: Missing cached shader map for material Master_Glass_Mat, compiling. 
+[2020.12.07-15.46.43:095][948]LogTexture: Display: Building textures: WoodRough_b_r (BC4, 512X512)
+[2020.12.07-15.46.43:095][948]LogTexture: Display: Building textures: WoodRough_b_n (BC5, 512X512)
+[2020.12.07-15.46.43:095][948]LogMaterial: Display: Missing cached shader map for material Master_Props_SubSurface_Mat, compiling. 
+[2020.12.07-15.46.43:288][948]LogTexture: Display: Building textures: WoodRough_b_c (AutoDXT, 512X512)
+[2020.12.07-15.46.43:288][948]LogMaterial: Display: Missing cached shader map for material Master_Props_SubSurface_Mat, compiling. 
+[2020.12.07-15.46.43:461][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.46.43:699][948]LogMaterial: Display: Missing cached shader map for material Master_Props_ClearCoat_Mat, compiling. 
+[2020.12.07-15.46.44:144][948]LogTexture: Display: Building textures: HuntingSign_a_r (BC4, 256X256)
+[2020.12.07-15.46.44:144][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.46.44:363][948]LogTexture: Display: Building textures: HuntingSign_a_n (BC5, 256X256)
+[2020.12.07-15.46.44:363][948]LogTexture: Display: Building textures: HuntingSign_a_c (AutoDXT, 256X256)
+[2020.12.07-15.46.44:363][948]LogTexture: Display: Building textures: HuntingSign_a_o (BC4, 256X256)
+[2020.12.07-15.46.44:363][948]LogTexture: Display: Building textures: HuntingSign_a_m (BC4, 256X256)
+[2020.12.07-15.46.44:364][948]LogTexture: Display: Building textures: HikingStick_a_r (BC4, 32X128)
+[2020.12.07-15.46.44:364][948]LogTexture: Display: Building textures: HikingStick_a_n (BC5, 64X256)
+[2020.12.07-15.46.44:364][948]LogMaterial: Display: Missing cached shader map for material Master_Glass_Mat, compiling. 
+[2020.12.07-15.46.44:626][948]LogTexture: Display: Building textures: HikingStick_a_m (BC4, 32X128)
+[2020.12.07-15.46.44:626][948]LogTexture: Display: Building textures: HikingStick_a_c (AutoDXT, 64X256)
+[2020.12.07-15.46.44:626][948]LogTexture: Display: Building textures: HangingFish_a_r (BC4, 512X512)
+[2020.12.07-15.46.44:627][948]LogTexture: Display: Building textures: HangingVest_r (BC4, 512X512)
+[2020.12.07-15.46.44:627][948]LogTexture: Display: Building textures: HangingVest_n (BC5, 512X512)
+[2020.12.07-15.46.44:627][948]LogMaterial: Display: Missing cached shader map for material Master_Props_Mat, compiling. 
+[2020.12.07-15.46.46:162][948]LogTexture: Display: Building textures: HangingVest_c (AutoDXT, 512X512)
+[2020.12.07-15.46.46:162][948]LogTexture: Display: Building textures: HangingFish_a_n (BC5, 512X512)
+[2020.12.07-15.46.46:162][948]LogTexture: Display: Building textures: HangingFish_a_c (AutoDXT, 512X512)
+[2020.12.07-15.46.46:469][948]LogAssetEditorSubsystem: Opening Asset editor for World /Game/EF_Sam/Maps/Overview.Overview
+[2020.12.07-15.46.46:573][948]LogUObjectHash: Compacting FUObjectHashTables data took  14.52ms
+[2020.12.07-15.46.46:623][948]Cmd: MAP LOAD FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/EF_Sam/Maps/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-15.46.46:623][948]LightingResults: New page: Lighting Build
+[2020.12.07-15.46.46:624][948]LoadErrors: New page: Loading map: Overview.umap
+[2020.12.07-15.46.46:641][948]LogWorld: UWorld::CleanupWorld for Second_floor, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.46.46:642][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.46.46:642][948]MapCheck: New page: Map Check
+[2020.12.07-15.46.46:642][948]LightingResults: New page: Lighting Build
+[2020.12.07-15.46.46:689][948]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F9AED58A40), frame # 52948
+[2020.12.07-15.46.46:689][948]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F96E8AF200), frame # 52948
+[2020.12.07-15.46.46:696][948]LogUObjectHash: Compacting FUObjectHashTables data took   6.06ms
+[2020.12.07-15.46.47:377][948]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-15.46.47:377][948]LogAIModule: Creating AISystem for world Overview
+[2020.12.07-15.46.47:378][948]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F9A0B1AE00), frame # 52948
+[2020.12.07-15.46.47:378][948]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9F36E8900), frame # 52948
+[2020.12.07-15.46.47:592][948]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.12.07-15.46.47:722][948]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-15.46.47:722][948]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,248ms to complete.
+[2020.12.07-15.46.47:723][948]LogFileHelpers: Loading map 'Overview' took 1.100
+[2020.12.07-15.46.59:725][306]LogTexture: Display: Building textures: PlasterWall_a_c (AutoDXT, 1024X1024)
+[2020.12.07-15.46.59:725][306]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.07-15.46.59:725][306]LogTexture: Display: Building textures: ShelfWoodTrim_a_c (AutoDXT, 512X256)
+[2020.12.07-15.47.00:355][306]LogTexture: Display: Building textures: ShelfWoodTrim_a_n (BC5, 512X256)
+[2020.12.07-15.47.00:436][306]LogTexture: Display: Building textures: ShelfWoodTrim_a_r (BC4, 512X256)
+[2020.12.07-15.47.02:181][306]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.07-15.47.02:182][306]LogTexture: Display: Building textures: PlasterWall_a_n (BC5, 1024X1024)
+[2020.12.07-15.47.02:776][306]LogTexture: Display: Building textures: PlasterWall_a_r (BC4, 1024X1024)
+[2020.12.07-15.47.03:058][306]LogStaticMesh: Building static mesh AmmoBox_a...
+[2020.12.07-15.47.03:061][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/AmmoBox_a.AmmoBox_a
+[2020.12.07-15.47.03:062][306]LogStaticMesh: Building static mesh AntiqueTelevision_a...
+[2020.12.07-15.47.03:097][306]LogStaticMesh: Built static mesh [0.03s] /Game/EF_Sam/Shared/Surprise/Environments/AntiqueTelevision/AntiqueTelevision_a.AntiqueTelevision_a
+[2020.12.07-15.47.03:103][306]LogStaticMesh: Building static mesh ArmyBackpack_a...
+[2020.12.07-15.47.03:294][306]LogStaticMesh: Built static mesh [0.19s] /Game/EF_Sam/Meshes/ArmyBackpack_a.ArmyBackpack_a
+[2020.12.07-15.47.03:332][306]LogStaticMesh: Building static mesh Axe_a...
+[2020.12.07-15.47.03:349][306]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/Axe_a.Axe_a
+[2020.12.07-15.47.03:351][306]LogStaticMesh: Building static mesh Bow_a...
+[2020.12.07-15.47.03:371][306]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/Bow_a.Bow_a
+[2020.12.07-15.47.03:373][306]LogStaticMesh: Building static mesh BrochureTornEnvelope_a...
+[2020.12.07-15.47.03:374][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/BrochureTornEnvelope_a.BrochureTornEnvelope_a
+[2020.12.07-15.47.03:375][306]LogStaticMesh: Building static mesh CameraLens_a...
+[2020.12.07-15.47.03:440][306]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.07-15.47.03:440][306]LogStaticMesh: Built static mesh [0.07s] /Game/EF_Sam/Meshes/CameraLens_a.CameraLens_a
+[2020.12.07-15.47.03:448][306]LogStaticMesh: Building static mesh CameraLens_b...
+[2020.12.07-15.47.03:489][306]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/CameraLens_b.CameraLens_b
+[2020.12.07-15.47.03:495][306]LogStaticMesh: Building static mesh ChinaCabinet_a...
+[2020.12.07-15.47.03:732][306]LogStaticMesh: Built static mesh [0.24s] /Game/EF_Sam/Shared/House/Environments/DiningRoom/ChinaCabinet/ChinaCabinet_a.ChinaCabinet_a
+[2020.12.07-15.47.03:771][306]LogStaticMesh: Building static mesh Clothespin_a...
+[2020.12.07-15.47.03:786][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/Clothespin_a.Clothespin_a
+[2020.12.07-15.47.03:788][306]LogStaticMesh: Building static mesh DarkRoom_Ceiling...
+[2020.12.07-15.47.03:792][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Ceiling.DarkRoom_Ceiling
+[2020.12.07-15.47.03:793][306]LogStaticMesh: Building static mesh DarkRoom_Floor...
+[2020.12.07-15.47.03:796][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Floor.DarkRoom_Floor
+[2020.12.07-15.47.03:797][306]LogStaticMesh: Building static mesh DarkRoom_Wall_A...
+[2020.12.07-15.47.03:799][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_A.DarkRoom_Wall_A
+[2020.12.07-15.47.03:800][306]LogStaticMesh: Building static mesh DarkRoom_Wall_B...
+[2020.12.07-15.47.03:800][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_B.DarkRoom_Wall_B
+[2020.12.07-15.47.03:801][306]LogStaticMesh: Building static mesh DarkRoom_Wall_C...
+[2020.12.07-15.47.03:803][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_C.DarkRoom_Wall_C
+[2020.12.07-15.47.03:804][306]LogStaticMesh: Building static mesh DarkRoom_Wall_D...
+[2020.12.07-15.47.03:806][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_D.DarkRoom_Wall_D
+[2020.12.07-15.47.03:806][306]LogStaticMesh: Building static mesh DarkRoom_Wall_E...
+[2020.12.07-15.47.03:809][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_E.DarkRoom_Wall_E
+[2020.12.07-15.47.03:810][306]LogStaticMesh: Building static mesh DarkRoom_Wall_Frames...
+[2020.12.07-15.47.03:812][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_Wall_Frames.DarkRoom_Wall_Frames
+[2020.12.07-15.47.03:813][306]LogStaticMesh: Building static mesh DarkRoom_WallBeam_A...
+[2020.12.07-15.47.03:824][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/DarkRoom_WallBeam_A.DarkRoom_WallBeam_A
+[2020.12.07-15.47.03:849][306]LogStaticMesh: Building static mesh DarkRoom_WallBeam_B...
+[2020.12.07-15.47.03:851][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_WallBeam_B.DarkRoom_WallBeam_B
+[2020.12.07-15.47.03:853][306]LogStaticMesh: Building static mesh DarkRoom_WallBeam_C...
+[2020.12.07-15.47.03:864][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/DarkRoom_WallBeam_C.DarkRoom_WallBeam_C
+[2020.12.07-15.47.03:866][306]LogStaticMesh: Building static mesh DarkRoom_WallBeam_D...
+[2020.12.07-15.47.03:871][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_WallBeam_D.DarkRoom_WallBeam_D
+[2020.12.07-15.47.03:872][306]LogStaticMesh: Building static mesh DarkRoom_WallBeam_E...
+[2020.12.07-15.47.03:875][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/DarkRoom_WallBeam_E.DarkRoom_WallBeam_E
+[2020.12.07-15.47.03:877][306]LogStaticMesh: Building static mesh DarkroomWorkbench_a...
+[2020.12.07-15.47.03:885][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/DarkroomWorkbench_a.DarkroomWorkbench_a
+[2020.12.07-15.47.03:887][306]LogStaticMesh: Building static mesh Door_a...
+[2020.12.07-15.47.04:000][306]LogStaticMesh: Built static mesh [0.11s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/Door/Door_a.Door_a
+[2020.12.07-15.47.04:019][306]LogStaticMesh: Building static mesh DoorFrame_a...
+[2020.12.07-15.47.04:023][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Shared/Bathtub/Environment/DoorFrame/DoorFrame_a.DoorFrame_a
+[2020.12.07-15.47.04:024][306]LogStaticMesh: Building static mesh FilmBox_b...
+[2020.12.07-15.47.04:028][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/FilmBox_b.FilmBox_b
+[2020.12.07-15.47.04:029][306]LogStaticMesh: Building static mesh FilmBoxClosed_a...
+[2020.12.07-15.47.04:035][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/FilmBoxClosed_a.FilmBoxClosed_a
+[2020.12.07-15.47.04:036][306]LogStaticMesh: Building static mesh FilmBoxOpen_a...
+[2020.12.07-15.47.04:047][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/FilmBoxOpen_a.FilmBoxOpen_a
+[2020.12.07-15.47.04:048][306]LogStaticMesh: Building static mesh FilmChemicalPod_a...
+[2020.12.07-15.47.04:057][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/FilmChemicalPod_a.FilmChemicalPod_a
+[2020.12.07-15.47.04:059][306]LogStaticMesh: Building static mesh FilmNegative...
+[2020.12.07-15.47.04:062][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/FilmNegative.FilmNegative
+[2020.12.07-15.47.04:063][306]LogStaticMesh: Building static mesh FilmRoll_a...
+[2020.12.07-15.47.04:075][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/FilmRoll_a.FilmRoll_a
+[2020.12.07-15.47.04:076][306]LogStaticMesh: Building static mesh HangingPhoto_c...
+[2020.12.07-15.47.04:077][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/HangingPhoto_c.HangingPhoto_c
+[2020.12.07-15.47.04:078][306]LogStaticMesh: Building static mesh HangingPhoto_g...
+[2020.12.07-15.47.04:079][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/HangingPhoto_g.HangingPhoto_g
+[2020.12.07-15.47.04:080][306]LogStaticMesh: Building static mesh HangingPhoto_i...
+[2020.12.07-15.47.04:103][306]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/HangingPhoto_i.HangingPhoto_i
+[2020.12.07-15.47.04:104][306]LogStaticMesh: Building static mesh HangingPhoto_j...
+[2020.12.07-15.47.04:105][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/HangingPhoto_j.HangingPhoto_j
+[2020.12.07-15.47.04:105][306]LogStaticMesh: Building static mesh HousePergolaDeck_c...
+[2020.12.07-15.47.04:736][306]LogStaticMesh: Built static mesh [0.63s] /Game/EF_Sam/Shared/House/Environments/HouseExterior/HouseExterior/HousePergolaDeck_c.HousePergolaDeck_c
+[2020.12.07-15.47.04:789][306]LogStaticMesh: Building static mesh Machete_a...
+[2020.12.07-15.47.04:802][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/Machete_a.Machete_a
+[2020.12.07-15.47.04:805][306]LogStaticMesh: Building static mesh RingBox_a...
+[2020.12.07-15.47.04:854][306]LogStaticMesh: Built static mesh [0.05s] /Game/EF_Sam/Meshes/RingBox_a.RingBox_a
+[2020.12.07-15.47.04:858][306]LogStaticMesh: Building static mesh SamRoomBeam_a...
+[2020.12.07-15.47.11:501][306]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.12.07-15.47.11:501][306]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 32X32)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: AmmoBox_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: AmmoBox_a_r (BC4, 256X256)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: AmmoBox_a_n (BC5, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ArmyBackpack_a_r (BC4, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ArmyBackpack_a_m (BC4, 256X256)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ArmyBackpack_a_n (BC5, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: ArmyBackpack_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_b_r (BC4, 128X256)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_b_n (BC5, 128X256)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_b_c (AutoDXT, 128X256)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_a_r (BC4, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_a_n (BC5, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmBox_a_c (AutoDXT, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmRoll_a_c (AutoDXT, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmRoll_a_r (BC4, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmRoll_a_o (BC4, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: FilmRoll_a_n (BC5, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: SamRoomSlidingDoor_a_n (BC5, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: SamRoomSlidingDoor_a_m (BC4, 128X128)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: SamRoomSlidingDoor_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: WoodPlanksFloor_a_R (BC4, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogTexture: Display: Building textures: WoodPlanksFloor_a_N (BC5, 1024X1024)
+[2020.12.07-15.47.11:502][306]LogStaticMesh: Built static mesh [6.64s] /Game/EF_Sam/Meshes/SamRoomBeam_a.SamRoomBeam_a
+[2020.12.07-15.47.11:554][306]LogStaticMesh: Building static mesh SamRoomCeiling_a...
+[2020.12.07-15.47.11:565][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/SamRoomCeiling_a.SamRoomCeiling_a
+[2020.12.07-15.47.11:570][306]LogStaticMesh: Building static mesh SamRoomCeiling_b...
+[2020.12.07-15.47.11:575][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/SamRoomCeiling_b.SamRoomCeiling_b
+[2020.12.07-15.47.11:576][306]LogStaticMesh: Building static mesh SamRoomCeilingWindow_a...
+[2020.12.07-15.47.11:607][306]LogStaticMesh: Built static mesh [0.03s] /Game/EF_Sam/Meshes/SamRoomCeilingWindow_a.SamRoomCeilingWindow_a
+[2020.12.07-15.47.11:612][306]LogStaticMesh: Building static mesh SamRoomCeilingWindow_b...
+[2020.12.07-15.47.11:616][306]LogStaticMesh: Built static mesh [0.01s] /Game/EF_Sam/Meshes/SamRoomCeilingWindow_b.SamRoomCeilingWindow_b
+[2020.12.07-15.47.11:617][306]LogStaticMesh: Building static mesh SamRoomFloor_a...
+[2020.12.07-15.47.11:618][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomFloor_a.SamRoomFloor_a
+[2020.12.07-15.47.11:619][306]LogStaticMesh: Building static mesh SamRoomSlidingDoor_a...
+[2020.12.07-15.47.11:663][306]LogTexture: Display: Building textures: WoodPlanksFloor_a_C (AutoDXT, 1024X1024)
+[2020.12.07-15.47.11:663][306]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/SamRoomSlidingDoor_a.SamRoomSlidingDoor_a
+[2020.12.07-15.47.11:670][306]LogStaticMesh: Building static mesh SamRoomSlidingDoorFrame_a...
+[2020.12.07-15.47.11:725][306]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Sam/Meshes/SamRoomSlidingDoorFrame_a.SamRoomSlidingDoorFrame_a
+[2020.12.07-15.47.11:734][306]LogStaticMesh: Building static mesh SamRoomWall_a...
+[2020.12.07-15.47.11:739][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomWall_a.SamRoomWall_a
+[2020.12.07-15.47.11:741][306]LogStaticMesh: Building static mesh SamRoomWall_b...
+[2020.12.07-15.47.11:744][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomWall_b.SamRoomWall_b
+[2020.12.07-15.47.11:745][306]LogStaticMesh: Building static mesh SamRoomWall_c...
+[2020.12.07-15.47.11:748][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamRoomWall_c.SamRoomWall_c
+[2020.12.07-15.47.11:749][306]LogStaticMesh: Building static mesh SamRoomWindow_a...
+[2020.12.07-15.47.11:811][306]LogTexture: Display: Building textures: WoodPlanksRough_c_c (AutoDXT, 512X512)
+[2020.12.07-15.47.11:811][306]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Sam/Meshes/SamRoomWindow_a.SamRoomWindow_a
+[2020.12.07-15.47.11:827][306]LogStaticMesh: Building static mesh SamRoomWindowBars_a...
+[2020.12.07-15.47.11:864][306]LogStaticMesh: Built static mesh [0.04s] /Game/EF_Sam/Meshes/SamRoomWindowBars_a.SamRoomWindowBars_a
+[2020.12.07-15.47.11:867][306]LogStaticMesh: Building static mesh SamSPDoor...
+[2020.12.07-15.47.11:932][306]LogStaticMesh: Built static mesh [0.06s] /Game/EF_Sam/Meshes/SamSPDoor.SamSPDoor
+[2020.12.07-15.47.11:951][306]LogStaticMesh: Building static mesh SamsSPDoorFrame...
+[2020.12.07-15.47.11:956][306]LogStaticMesh: Built static mesh [0.00s] /Game/EF_Sam/Meshes/SamsSPDoorFrame.SamsSPDoorFrame
+[2020.12.07-15.47.11:957][306]LogStaticMesh: Building static mesh ShotgunShell...
+[2020.12.07-15.47.11:981][306]LogStaticMesh: Built static mesh [0.02s] /Game/EF_Sam/Meshes/ShotgunShell.ShotgunShell
+[2020.12.07-15.47.11:984][306]LogStaticMesh: Building static mesh Wagon_a...
+[2020.12.07-15.47.12:134][306]LogStaticMesh: Built static mesh [0.15s] /Game/EF_Sam/Meshes/Wagon_a.Wagon_a
+[2020.12.07-15.47.12:185][306]LogStaticMesh: Building static mesh WindowSmall_a...
+[2020.12.07-15.47.12:368][306]LogStaticMesh: Built static mesh [0.18s] /Game/EF_Sam/Shared/House/Environments/GenericPropsInterior/Window/WindowSmall_a.WindowSmall_a
+[2020.12.07-15.47.12:619][306]LogTexture: Display: Building textures: SamRoomSlidingDoor_a_r (BC4, 512X512)
+[2020.12.07-15.47.16:069][306]LogTexture: Display: Building textures: WoodPlanksRough_c_r (BC4, 256X256)
+[2020.12.07-15.47.16:069][306]LogTexture: Display: Building textures: WoodPlanksRough_c_n (BC5, 512X512)
+[2020.12.07-15.47.16:069][306]LogTexture: Display: Building textures: WoodPlanksFloor_b_R (BC4, 1024X1024)
+[2020.12.07-15.47.16:069][306]LogTexture: Display: Building textures: WoodPlanksFloor_b_N (BC5, 1024X1024)
+[2020.12.07-15.47.16:070][306]LogTexture: Display: Building textures: WoodPlanksFloor_b_C (AutoDXT, 1024X1024)
+[2020.12.07-15.47.16:070][306]LogMaterial: Display: Missing cached shader map for material Master_Glass_Mat, compiling. 
+[2020.12.07-15.47.19:083][306]LogTexture: Display: Building textures: LathePlaster_a_r (BC4, 256X256)
+[2020.12.07-15.47.19:083][306]LogTexture: Display: Building textures: LathePlaster_a_n (BC5, 512X512)
+[2020.12.07-15.47.19:083][306]LogTexture: Display: Building textures: LathePlaster_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: MetalWallPaint_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: BrochureTornEnvelope_a_r (BC4, 256X128)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: BrochureTornEnvelope_a_o (BC4, 256X128)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: White_c (AutoDXT, 8X8)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: AntiqueTelevisionCover_a_c (AutoDXT, 256X256)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: Door_a_r (BC4, 256X512)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: Door_a_n (BC5, 512X1024)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: Door_a_m (BC4, 128X256)
+[2020.12.07-15.47.19:114][306]LogTexture: Display: Building textures: Door_a_c (AutoDXT, 512X1024)
+[2020.12.07-15.47.19:114][306]LogMaterial: Display: Missing cached shader map for material Master_Props_Emmisive_Mat, compiling. 
+[2020.12.07-15.47.19:207][306]LogTexture: Display: Building textures: Dirt_NoiseLarge_alpha (BC4, 256X256)
+[2020.12.07-15.47.19:207][306]LogTexture: Display: Building textures: Wagon_a_c (AutoDXT, 512X512)
+[2020.12.07-15.47.19:207][306]LogMaterial: Display: Missing cached shader map for material Master_Props_Emmisive_Mat, compiling. 
+[2020.12.07-15.47.19:306][306]LogMaterial: Display: Missing cached shader map for material Master_Glass_Mat, compiling. 
+[2020.12.07-15.47.21:407][306]LogTexture: Display: Building textures: Wagon_a_r (BC4, 512X512)
+[2020.12.07-15.47.21:408][306]LogTexture: Display: Building textures: Wagon_a_n (BC5, 512X512)
+[2020.12.07-15.47.21:408][306]LogTexture: Display: Building textures: Iron_b_r (BC4, 256X256)
+[2020.12.07-15.47.21:408][306]LogTexture: Display: Building textures: Iron_b_c (AutoDXT, 512X512)
+[2020.12.07-15.47.21:408][306]LogTexture: Display: Building textures: BrochureTornEnvelope_a_n (BC5, 256X128)
+[2020.12.07-15.47.21:408][306]LogTexture: Display: Building textures: BrochureTornEnvelope_a_c (AutoDXT, 1024X512)
+[2020.12.07-15.47.21:704][306]LogAssetEditorSubsystem: Opening Asset editor for World /Game/EF_Sam/Maps/DemoMap.DemoMap
+[2020.12.07-15.47.26:170][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.12.07-15.47.26:196][306]Cmd: MAP LOAD FILE="../../../../../../Users/raque/Desktop/DEV/practica3/Content/EF_Sam/Maps/DemoMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.07-15.47.26:200][306]LightingResults: New page: Lighting Build
+[2020.12.07-15.47.26:200][306]LoadErrors: New page: Loading map: DemoMap.umap
+[2020.12.07-15.47.26:203][306]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2020.12.07-15.47.26:203][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.07-15.47.26:203][306]MapCheck: New page: Map Check
+[2020.12.07-15.47.26:203][306]LightingResults: New page: Lighting Build
+[2020.12.07-15.47.26:306][306]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F9F36E8900), frame # 53306
+[2020.12.07-15.47.26:306][306]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F9A0B1AE00), frame # 53306
+[2020.12.07-15.47.26:316][306]LogUObjectHash: Compacting FUObjectHashTables data took   8.91ms
+[2020.12.07-15.47.27:103][306]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.07-15.47.27:105][306]LogAIModule: Creating AISystem for world DemoMap
+[2020.12.07-15.47.27:106][306]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F9B7058800), frame # 53306
+[2020.12.07-15.47.27:106][306]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F9C6CA6200), frame # 53306
+[2020.12.07-15.47.27:281][306]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.12.07-15.47.27:460][306]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.07-15.47.27:461][306]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,418ms to complete.
+[2020.12.07-15.47.27:461][306]LogFileHelpers: Loading map 'DemoMap' took 1.265
+[2020.12.07-15.47.33:211][308]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SamRoomSlidingDoorFrame_a)
+[2020.12.07-15.47.34:406][325]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SamRoomBeam_a)
+[2020.12.07-15.47.35:386][329]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SamRoomBed_a)
+[2020.12.07-15.47.37:337][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SamRoomWindow_a2)
+[2020.12.07-15.48.33:811][980]MapCheck: New page: Map Check
+[2020.12.07-15.48.33:865][980]Cmd: MAP REBUILD ALLVISIBLE
+[2020.12.07-15.48.33:866][980]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.12.07-15.48.34:608][980]LogWorld: UWorld::CleanupWorld for DemoMap, bSessionEnded=true, bCleanupResources=false
+[2020.12.07-15.48.34:684][980]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2020.12.07-15.48.34:684][980]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2020.12.07-15.48.34:684][980]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2020.12.07-15.48.34:788][980]LogUObjectHash: Compacting FUObjectHashTables data took   8.42ms
